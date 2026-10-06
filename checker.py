@@ -7,7 +7,7 @@ from pathlib import Path
 from playwright.async_api import async_playwright, TimeoutError as PlaywrightTimeoutError
 
 BASE_DIR = Path(__file__).resolve().parent
-LOCAL_URLS_FILE = BASE_DIR / "urls.json"
+LOCAL_URLS_FILE = BASE_DIR / "urls.txt"
 RESULTS_FILE = BASE_DIR / "results.json"
 
 TIMEOUT_MS = 30_000
@@ -17,11 +17,17 @@ DEVICE_SELECTOR_TIMEOUT_MS = 5_000
 
 def load_urls():
     if not LOCAL_URLS_FILE.exists():
-        raise RuntimeError("urls.json was not found.")
+        raise RuntimeError("urls.txt was not found.")
 
-    return json.loads(
-        LOCAL_URLS_FILE.read_text(encoding="utf-8")
-    )
+    urls = [
+        line.strip()
+        for line in LOCAL_URLS_FILE.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
+
+    urls = list(dict.fromkeys(urls))
+
+    return [{"url": url} for url in urls]
 
 
 async def check_url(page, item):
