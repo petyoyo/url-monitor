@@ -1,0 +1,35 @@
+name: URL Monitor
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run URL checks
+        run: python checker.py
+
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: check-results
+          path: results.json
+          retention-days: 30
