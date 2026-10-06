@@ -264,6 +264,10 @@ button#check-button {
     display: none;
 }
 
+.url-row strong {
+    display: none;
+}
+
 @media(max-width:800px) {
     .summary {
         grid-template-columns: repeat(2, 1fr)
