@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07T11:32:04.765979+00:00",
+  "checked_at": "2026-10-07T18:04:20.722101+00:00",
   "count": 17,
   "results": [
     {
@@ -10,7 +10,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17-eo?exact-color=%23868FC7&storage=256GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24",
       "title": "iPhone 17 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 7137,
+      "response_time_ms": 6727,
       "result": "OK",
       "error": null
     },
@@ -22,7 +22,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-moto-g67-5g-plus-philips-airfryer-eo?exact-color=%23777777&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24",
       "title": "MOTOROLA Moto G67 5G 128GB + Philips Airfryer",
       "device_details_page_found": true,
-      "response_time_ms": 2730,
+      "response_time_ms": 2326,
       "result": "OK",
       "error": null
     },
@@ -34,7 +34,7 @@
       "final_url": "https://www.yettel.bg/bg/ekskluzivna-oferta-v-prilozhenieto-yettel",
       "title": "Ексклузивна оферта за мобилен план",
       "device_details_page_found": null,
-      "response_time_ms": 1279,
+      "response_time_ms": 1495,
       "result": "OK",
       "error": null
     },
@@ -46,7 +46,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/landing/huawei-oferti-s-otstypka",
       "title": "Месечни оферти от HUAWEI в Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 297,
+      "response_time_ms": 315,
       "result": "OK",
       "error": null
     },
@@ -58,7 +58,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-neo?exact-color=%23FFFFFF&intent=NO_PLAN&paymentType=LEASE",
       "title": "HUAWEI FreeBuds Neo",
       "device_details_page_found": true,
-      "response_time_ms": 2718,
+      "response_time_ms": 1854,
       "result": "OK",
       "error": null
     },
@@ -70,7 +70,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-16-eo?exact-color=%23000000&storage=128GB&intent=NEW_ACTIVATION&paymentType=LEASE&planId=48701-26681-24",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5425,
+      "response_time_ms": 5481,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -82,7 +82,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-14s-256bg-eo?exact-color=%23000000&storage=256GB&intent=NEW_ACTIVATION&paymentType=LEASE&planId=48701-26681-24",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5267,
+      "response_time_ms": 5260,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -94,7 +94,7 @@
       "final_url": "https://www.yettel.bg/bg/online-oferti-ot-yettel",
       "title": "Прехвърли номер със супер оферта",
       "device_details_page_found": null,
-      "response_time_ms": 534,
+      "response_time_ms": 728,
       "result": "OK",
       "error": null
     },
@@ -106,7 +106,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-fe-5g?exact-color=%23A0A3D0&storage=256GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24",
       "title": "Samsung Galaxy S26 FE 5G 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 2369,
+      "response_time_ms": 2209,
       "result": "OK",
       "error": null
     },
@@ -118,7 +118,7 @@
       "final_url": "https://www.yettel.bg/bg/realme-16-pro-harry-potter-edition",
       "title": "Открий realme 16 Pro Harry Potter Edition в Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 978,
+      "response_time_ms": 926,
       "result": "OK",
       "error": null
     },
@@ -130,7 +130,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/landing/xiaomi-seriya-17-pro-i-pro-max",
       "title": "XIAOMI Redmi Note 17 Pro & Pro Max | [site:name",
       "device_details_page_found": null,
-      "response_time_ms": 251,
+      "response_time_ms": 262,
       "result": "OK",
       "error": null
     },
@@ -142,7 +142,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/landing/novite-huawei-watch-gt-7",
       "title": "Серия HUAWEI WATCH GT 7",
       "device_details_page_found": null,
-      "response_time_ms": 519,
+      "response_time_ms": 546,
       "result": "OK",
       "error": null
     },
@@ -154,7 +154,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-nova-14-pro-512gb?exact-color=%231312F3&storage=512GB&intent=NEW_ACTIVATION&paymentType=LEASE&planId=45299-26331",
       "title": "Смартфон HUAWEI nova 14 Pro - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1606,
+      "response_time_ms": 2105,
       "result": "OK",
       "error": null
     },
@@ -166,7 +166,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-pura-80-ultra?exact-color=%23CFAC68&storage=512GB&intent=NEW_ACTIVATION&paymentType=LEASE&planId=45299-26331",
       "title": "HUAWEI Pura 80 Ultra 512GB",
       "device_details_page_found": true,
-      "response_time_ms": 2124,
+      "response_time_ms": 2737,
       "result": "OK",
       "error": null
     },
@@ -178,7 +178,7 @@
       "final_url": "https://www.yettel.bg/bg/novite-apple-iphone-18-series",
       "title": "iPhone 18 Pro и iPhone 18 Pro Max - предварителни поръчки",
       "device_details_page_found": null,
-      "response_time_ms": 868,
+      "response_time_ms": 967,
       "result": "OK",
       "error": null
     },
@@ -202,7 +202,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-17?exact-color=%23000000&storage=256GB&intent=NEW_ACTIVATION&paymentType=CASH&isPlanFirst=true&planId=48701-26681-24",
       "title": "XIAOMI Redmi Note 17 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 2163,
+      "response_time_ms": 2871,
       "result": "OK",
       "error": null
     }
