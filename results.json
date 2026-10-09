@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09T07:12:33.551727+00:00",
+  "checked_at": "2026-10-09T11:47:33.441004+00:00",
   "count": 262,
   "results": [
     {
@@ -10,7 +10,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23E8E9FF&storage=128GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 8118,
+      "response_time_ms": 6472,
       "result": "OK",
       "error": null
     },
@@ -22,7 +22,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a17-5g?exact-color=%23069ADF&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2967,
+      "response_time_ms": 2276,
       "result": "OK",
       "error": null
     },
@@ -34,7 +34,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-5-pro-46mm-black-rubber?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5411,
+      "response_time_ms": 5346,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -46,7 +46,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-pura-80-ultra?exact-color=%23CFAC68&storage=512GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1569,
+      "response_time_ms": 1024,
       "result": "OK",
       "error": null
     },
@@ -58,7 +58,7 @@
       "final_url": "https://www.yettel.bg/bg/tv-internet/paketi-fiksirani-uslugi%7Bignore%7D?utm_source=google-search&utm_medium=cpc&utm_campaign=tv-fwa-Internet-for-home",
       "title": "Error 404 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 1091,
+      "response_time_ms": 1056,
       "result": "HTTP_ERROR",
       "error": "Expected HTTP 200, got 404"
     },
@@ -70,7 +70,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17-pro?exact-color=%23FB4F3E&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2677,
+      "response_time_ms": 1621,
       "result": "OK",
       "error": null
     },
@@ -82,7 +82,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17-ultra-5g?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1114,
+      "response_time_ms": 2052,
       "result": "OK",
       "error": null
     },
@@ -94,7 +94,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15?exact-color=%23069ADF&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2142,
+      "response_time_ms": 2061,
       "result": "OK",
       "error": null
     },
@@ -106,7 +106,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-moto-g86-5g?exact-color=%23A3A5C4&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2677,
+      "response_time_ms": 2148,
       "result": "OK",
       "error": null
     },
@@ -118,7 +118,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-ultimate-green?exact-color=%23A2D50E&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1075,
+      "response_time_ms": 1029,
       "result": "OK",
       "error": null
     },
@@ -130,7 +130,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a37-5g?exact-color=%23625D56&storage=128GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2178,
+      "response_time_ms": 2027,
       "result": "OK",
       "error": null
     },
@@ -142,7 +142,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-70-fusion-power-5g256gb?exact-color=%231312F3&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1297,
+      "response_time_ms": 2081,
       "result": "OK",
       "error": null
     },
@@ -154,7 +154,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%23BCBCD4&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1574,
+      "response_time_ms": 1526,
       "result": "OK",
       "error": null
     },
@@ -166,7 +166,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-70-5g?storage=512GB&exact-color=%237C847D&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2234,
+      "response_time_ms": 1589,
       "result": "OK",
       "error": null
     },
@@ -177,10 +177,10 @@
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15-pro?storage=256GB&exact-color=%23000000{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
-      "device_details_page_found": false,
-      "response_time_ms": 5343,
-      "result": "DEVICE_NOT_PUBLISHED",
-      "error": "div.device-details-page was not found or visible"
+      "device_details_page_found": true,
+      "response_time_ms": 1583,
+      "result": "OK",
+      "error": null
     },
     {
       "name": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17-pro-max?exact-color=%23D2D1D9&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
@@ -190,7 +190,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17-pro-max?exact-color=%23D2D1D9&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2060,
+      "response_time_ms": 2668,
       "result": "OK",
       "error": null
     },
@@ -202,7 +202,7 @@
       "final_url": "https://www.yettel.bg/bg/tv-internet/internet-za-doma/planove?utm_source=google-search&utm_medium=cpc&utm_campaign=fwa-ao",
       "title": "Интернет за дома - 5G и 4G пакети от Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 376,
+      "response_time_ms": 238,
       "result": "OK",
       "error": null
     },
@@ -214,7 +214,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-6-46mm-black-rubber?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1722,
+      "response_time_ms": 1623,
       "result": "OK",
       "error": null
     },
@@ -226,7 +226,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-14-pro?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2589,
+      "response_time_ms": 1525,
       "result": "OK",
       "error": null
     },
@@ -238,7 +238,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=WIRELESS_HEADPHONES&paymentType=LEASE&planType=no-plan&filter=%5B%7B%22code%22%3A%22brand%22%2C%22values%22%3A%5B%22APPLE%22%5D%7D%5D",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 308,
+      "response_time_ms": 244,
       "result": "OK",
       "error": null
     },
@@ -250,7 +250,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-c55?exact-color=%23FAF2D8&storage=128GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5259,
+      "response_time_ms": 5211,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -262,7 +262,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-6i?exact-color=%23FFFFFF&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1096,
+      "response_time_ms": 1004,
       "result": "OK",
       "error": null
     },
@@ -274,7 +274,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 3078,
+      "response_time_ms": 1547,
       "result": "OK",
       "error": null
     },
@@ -286,7 +286,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-fit-3?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2148,
+      "response_time_ms": 2174,
       "result": "OK",
       "error": null
     },
@@ -298,7 +298,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freeclip-2-rose-gold?exact-color=%23FFDCD9&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5367,
+      "response_time_ms": 5223,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -310,7 +310,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-s10-42mm-lte-titanium-milanese-loop?exact-color=%23B5744C&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5248,
+      "response_time_ms": 5204,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -322,7 +322,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15-eo?exact-color=%231312F3&storage=256GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5244,
+      "response_time_ms": 5230,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -334,7 +334,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-pura-80-pro?exact-color=%23FF0C0C&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1568,
+      "response_time_ms": 1004,
       "result": "OK",
       "error": null
     },
@@ -346,7 +346,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-6-41mm-brown?exact-color=%233F2400&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1080,
+      "response_time_ms": 1525,
       "result": "OK",
       "error": null
     },
@@ -358,7 +358,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-4-pro-lte-48-space-edition?exact-color=%23FF0000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2177,
+      "response_time_ms": 1518,
       "result": "OK",
       "error": null
     },
@@ -370,7 +370,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-se-4?exact-color=%23EBE9E9&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1591,
+      "response_time_ms": 1528,
       "result": "OK",
       "error": null
     },
@@ -382,7 +382,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-s25-edge-5g?exact-color=%23ACB3C5&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2124,
+      "response_time_ms": 1524,
       "result": "OK",
       "error": null
     },
@@ -394,7 +394,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-5g-standart?exact-color=%23BCBCD4&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1694,
+      "response_time_ms": 2075,
       "result": "OK",
       "error": null
     },
@@ -406,7 +406,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch-ultra-47mm-lte?exact-color=%23223345&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2167,
+      "response_time_ms": 1596,
       "result": "OK",
       "error": null
     },
@@ -418,7 +418,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch8-44mm-bt?exact-color=%23777777&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2100,
+      "response_time_ms": 1102,
       "result": "OK",
       "error": null
     },
@@ -430,7 +430,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a17-eo?exact-color=%233E4847&storage=128GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1582,
+      "response_time_ms": 1052,
       "result": "OK",
       "error": null
     },
@@ -442,7 +442,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%233E4847&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 3140,
+      "response_time_ms": 2030,
       "result": "OK",
       "error": null
     },
@@ -454,7 +454,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-4-anc?exact-color=%23EBE9E9&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5358,
+      "response_time_ms": 5253,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -466,7 +466,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-15?exact-color=%23464646&storage=128GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2575,
+      "response_time_ms": 1645,
       "result": "OK",
       "error": null
     },
@@ -478,7 +478,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-400-pro-5g?exact-color=%23000000&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1559,
+      "response_time_ms": 1094,
       "result": "OK",
       "error": null
     },
@@ -490,7 +490,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch8-classic-46mm-lte?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1585,
+      "response_time_ms": 1530,
       "result": "OK",
       "error": null
     },
@@ -502,7 +502,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-se-40mm-2024?exact-color=%2325222B&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1567,
+      "response_time_ms": 1035,
       "result": "OK",
       "error": null
     },
@@ -514,7 +514,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb?exact-color=%23A2D50E&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1574,
+      "response_time_ms": 1564,
       "result": "OK",
       "error": null
     },
@@ -526,7 +526,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-14-pro?exact-color=%23000000&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1647,
+      "response_time_ms": 1516,
       "result": "OK",
       "error": null
     },
@@ -538,7 +538,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%23000000&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1608,
+      "response_time_ms": 1520,
       "result": "OK",
       "error": null
     },
@@ -550,7 +550,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb?storage=512GB&exact-color=%233F2400&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2707,
+      "response_time_ms": 2019,
       "result": "OK",
       "error": null
     },
@@ -562,7 +562,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-6?exact-color=%23EBE9E9&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1622,
+      "response_time_ms": 1031,
       "result": "OK",
       "error": null
     },
@@ -574,7 +574,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-pura-80-pro?exact-color=%23EBE9E9&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2124,
+      "response_time_ms": 1565,
       "result": "OK",
       "error": null
     },
@@ -586,7 +586,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%233E4847&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2614,
+      "response_time_ms": 1553,
       "result": "OK",
       "error": null
     },
@@ -598,7 +598,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-z-flip7-fe-5g?exact-color=%23EBE9E9&storage=128GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2740,
+      "response_time_ms": 2115,
       "result": "OK",
       "error": null
     },
@@ -610,7 +610,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch8-40mm-lte?exact-color=%23777777&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1142,
+      "response_time_ms": 1044,
       "result": "OK",
       "error": null
     },
@@ -622,7 +622,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-13?exact-color=%23000000&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2595,
+      "response_time_ms": 1025,
       "result": "OK",
       "error": null
     },
@@ -634,7 +634,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch-ultra-47mm-lte?exact-color=%23FB4F3E&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1575,
+      "response_time_ms": 1546,
       "result": "OK",
       "error": null
     },
@@ -646,7 +646,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15?exact-color=%23069ADF&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1597,
+      "response_time_ms": 1025,
       "result": "OK",
       "error": null
     },
@@ -658,7 +658,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-50-ultra-5g?exact-color=%23E4DED2&storage=No{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5306,
+      "response_time_ms": 5222,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -670,7 +670,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a26-5g?exact-color=%23000000&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1576,
+      "response_time_ms": 1046,
       "result": "OK",
       "error": null
     },
@@ -682,7 +682,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-fit-4-pro?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1109,
+      "response_time_ms": 1094,
       "result": "OK",
       "error": null
     },
@@ -694,7 +694,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch-ultra-47mm-lte?exact-color=%23FFFFFF&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2143,
+      "response_time_ms": 1028,
       "result": "OK",
       "error": null
     },
@@ -706,7 +706,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-ultra-2-49mm-lte-titanium-case-milanese-loop?exact-color=%238F8C87&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1718,
+      "response_time_ms": 1144,
       "result": "OK",
       "error": null
     },
@@ -718,7 +718,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%23BCBCD4&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2582,
+      "response_time_ms": 2072,
       "result": "OK",
       "error": null
     },
@@ -730,7 +730,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/trender/trender-active-smartwatch?exact-color=%23D2D1D9&intent=NO_PLAN&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2220,
+      "response_time_ms": 1617,
       "result": "OK",
       "error": null
     },
@@ -742,7 +742,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-pro-3?exact-color=%23EBE9E9&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1634,
+      "response_time_ms": 1549,
       "result": "OK",
       "error": null
     },
@@ -754,7 +754,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a14-5g?exact-color=%23BEC1CA&storage=64GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5300,
+      "response_time_ms": 5252,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -766,7 +766,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%231312F3&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 3133,
+      "response_time_ms": 1532,
       "result": "OK",
       "error": null
     },
@@ -778,7 +778,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-moto-g35-5g?exact-color=%23A2D50E&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2631,
+      "response_time_ms": 1618,
       "result": "OK",
       "error": null
     },
@@ -790,7 +790,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-50-neo-5g?exact-color=%23FB4F3E&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2573,
+      "response_time_ms": 1521,
       "result": "OK",
       "error": null
     },
@@ -802,7 +802,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-se-3?exact-color=%23E4DED2&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2123,
+      "response_time_ms": 1033,
       "result": "OK",
       "error": null
     },
@@ -814,7 +814,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a26-5g?exact-color=%23EBE9E9&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1684,
+      "response_time_ms": 1527,
       "result": "OK",
       "error": null
     },
@@ -826,7 +826,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15-eo%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5261,
+      "response_time_ms": 5229,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -838,7 +838,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-pro-4?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1579,
+      "response_time_ms": 1020,
       "result": "OK",
       "error": null
     },
@@ -850,7 +850,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-se-40mm-2024?exact-color=%231C232B&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1069,
+      "response_time_ms": 1011,
       "result": "OK",
       "error": null
     },
@@ -862,7 +862,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-6-46mm-green?exact-color=%23EAF048&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1113,
+      "response_time_ms": 1075,
       "result": "OK",
       "error": null
     },
@@ -874,7 +874,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-14?exact-color=%238C7192&storage=512GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5341,
+      "response_time_ms": 5242,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -886,7 +886,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-c30?exact-color=%23B1CADD&storage=32GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5270,
+      "response_time_ms": 5241,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -898,7 +898,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-5-46mm-blue?exact-color=%23069ADF&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1079,
+      "response_time_ms": 1063,
       "result": "OK",
       "error": null
     },
@@ -910,7 +910,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-5-lte-42mm-white-black-strap?exact-color=%23EBE9E9&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2081,
+      "response_time_ms": 1073,
       "result": "OK",
       "error": null
     },
@@ -922,7 +922,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=100-OBEKTA&paymentType=CASH&planType=no-plan{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=Delve_YettelBG_Consideration_GoogleAds_DemGen_0_100TO_AllDevices_BG_MayJune2025_Prospecting",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 337,
+      "response_time_ms": 220,
       "result": "OK",
       "error": null
     },
@@ -934,7 +934,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=100-OBEKTA&paymentType=CASH&planType=no-plan",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 256,
+      "response_time_ms": 482,
       "result": "OK",
       "error": null
     },
@@ -946,7 +946,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17e?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1615,
+      "response_time_ms": 2321,
       "result": "OK",
       "error": null
     },
@@ -958,7 +958,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23836068&storage=2T&intent=NEW_ACTIVATION&paymentType=CASH&planId=45299-26331{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2244,
+      "response_time_ms": 1598,
       "result": "OK",
       "error": null
     },
@@ -970,7 +970,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23000000&storage=256GB&intent=NEW_ACTIVATION&paymentType=LEASE&planId=45299-26331{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2077,
+      "response_time_ms": 2028,
       "result": "OK",
       "error": null
     },
@@ -982,7 +982,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-predlaga-iphone-14-pro-s-dvoyno-poveche-pamet-na-cenata-na-po-niskata%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Error 404 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 417,
+      "response_time_ms": 306,
       "result": "HTTP_ERROR",
       "error": "Expected HTTP 200, got 404"
     },
@@ -994,7 +994,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23D2D1D9&storage=512GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2765,
+      "response_time_ms": 2633,
       "result": "OK",
       "error": null
     },
@@ -1006,7 +1006,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-16-pro?exact-color=%23434240&storage=256GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5266,
+      "response_time_ms": 5225,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -1018,7 +1018,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planId=45505-26334&filter=%5B%7B%22code%22%3A%22brand%22%2C%22values%22%3A%5B%22APPLE%22%5D%7D%5D{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 261,
+      "response_time_ms": 229,
       "result": "OK",
       "error": null
     },
@@ -1030,7 +1030,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-16?exact-color=%23EBE9E9&storage=128GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH",
       "title": "iPhone 16 128GB",
       "device_details_page_found": true,
-      "response_time_ms": 1576,
+      "response_time_ms": 2200,
       "result": "OK",
       "error": null
     },
@@ -1042,7 +1042,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23D2D1D9&storage=1T&intent=NEW_ACTIVATION&paymentType=LEASE&planId=45299-26331{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2081,
+      "response_time_ms": 1510,
       "result": "OK",
       "error": null
     },
@@ -1054,7 +1054,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-s11-lte-42mm-tit%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5258,
+      "response_time_ms": 5221,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -1066,7 +1066,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?exact-color=%23B1C6E3&storage=512GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1059,
+      "response_time_ms": 1561,
       "result": "OK",
       "error": null
     },
@@ -1078,7 +1078,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 259,
+      "response_time_ms": 269,
       "result": "OK",
       "error": null
     },
@@ -1090,7 +1090,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-air?storage=256GB&exact-color=%23F4F4F2&paymentType=LEASE&intent=NEW_ACTIVATION&planId=48701-26681-24{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2385,
+      "response_time_ms": 2261,
       "result": "OK",
       "error": null
     },
@@ -1102,7 +1102,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-15?exact-color=%23000000&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH",
       "title": "Смартфон Apple iPhone 15 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2087,
+      "response_time_ms": 1638,
       "result": "OK",
       "error": null
     },
@@ -1114,7 +1114,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23000000&storage=512GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=45299-26331{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2131,
+      "response_time_ms": 1519,
       "result": "OK",
       "error": null
     },
@@ -1126,7 +1126,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-16e?exact-color=%23000000&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH&isPlanFirst=true&planId=47041-26434-24",
       "title": "Смартфон Apple iPhone 16e - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1612,
+      "response_time_ms": 1036,
       "result": "OK",
       "error": null
     },
@@ -1138,7 +1138,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17e?exact-color=%23FEE4DE&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2092,
+      "response_time_ms": 2020,
       "result": "OK",
       "error": null
     },
@@ -1150,7 +1150,7 @@
       "final_url": "https://www.yettel.bg/bg/novite-apple-iphone-18-series%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Error 404 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 460,
+      "response_time_ms": 321,
       "result": "HTTP_ERROR",
       "error": "Expected HTTP 200, got 404"
     },
@@ -1162,7 +1162,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=MOBILE_PHONES&paymentType=LEASE&planId=45507-26336-24{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 402,
+      "response_time_ms": 324,
       "result": "OK",
       "error": null
     },
@@ -1174,7 +1174,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17-pro?exact-color=%233F5378&storage=1T&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 3426,
+      "response_time_ms": 1524,
       "result": "OK",
       "error": null
     },
@@ -1186,7 +1186,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23000000&storage=512GB&intent=NEW_ACTIVATION&paymentType=LEASE&planId=45299-26331{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 3092,
+      "response_time_ms": 1536,
       "result": "OK",
       "error": null
     },
@@ -1198,7 +1198,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMART_WEARABLES&paymentType=LEASE&planType=no-plan&filter=%5B%7B%22code%22%3A%22brand%22%2C%22values%22%3A%5B%22APPLE%22%5D%7D%5D",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 267,
+      "response_time_ms": 232,
       "result": "OK",
       "error": null
     },
@@ -1210,7 +1210,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?storage=256GB&exact-color=%23FFFFFF&intent=NEW_ACTIVATION&paymentType=LEASE&planId=48701-26681-24{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2075,
+      "response_time_ms": 1011,
       "result": "OK",
       "error": null
     },
@@ -1222,7 +1222,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-predlaga-iphone-15-128-gb-s-200-lv-namalenie-pri-pokupka-onlayn%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Error 404 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 630,
+      "response_time_ms": 294,
       "result": "HTTP_ERROR",
       "error": "Expected HTTP 200, got 404"
     },
@@ -1234,7 +1234,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-air?storage=1T&exact-color=%23F4F4F2&paymentType=LEASE&intent=NEW_ACTIVATION&planId=48701-26681-24{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2809,
+      "response_time_ms": 2137,
       "result": "OK",
       "error": null
     },
@@ -1246,7 +1246,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planType=recommended{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 292,
+      "response_time_ms": 212,
       "result": "OK",
       "error": null
     },
@@ -1258,7 +1258,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23D2D1D9&storage=1T&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2955,
+      "response_time_ms": 2010,
       "result": "OK",
       "error": null
     },
@@ -1270,7 +1270,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23000000&storage=512GB&intent=NEW_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2573,
+      "response_time_ms": 1540,
       "result": "OK",
       "error": null
     },
@@ -1282,7 +1282,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?exact-color=%23FFFFFF&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1580,
+      "response_time_ms": 1513,
       "result": "OK",
       "error": null
     },
@@ -1294,7 +1294,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23000000&storage=512GB&intent=NEW_PLAN&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2072,
+      "response_time_ms": 2516,
       "result": "OK",
       "error": null
     },
@@ -1306,7 +1306,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23836068&storage=2T&intent=NEW_PLAN&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=AppleBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2600,
+      "response_time_ms": 2029,
       "result": "OK",
       "error": null
     },
@@ -1318,7 +1318,7 @@
       "final_url": "https://www.yettel.bg/bg/nagradi-v-prilozhenieto-yettel-25-godini-vsichko-svurzano-s-teb",
       "title": "25 години - всичко свързано с теб | [site:name",
       "device_details_page_found": null,
-      "response_time_ms": 1169,
+      "response_time_ms": 1083,
       "result": "OK",
       "error": null
     },
@@ -1330,7 +1330,7 @@
       "final_url": "https://www.yettel.bg/bg/nagradi-v-prilozhenieto-yettel-25-godini-vsichko-svurzano-s-teb",
       "title": "25 години - всичко свързано с теб | [site:name",
       "device_details_page_found": null,
-      "response_time_ms": 546,
+      "response_time_ms": 342,
       "result": "OK",
       "error": null
     },
@@ -1342,7 +1342,7 @@
       "final_url": "https://www.yettel.bg/bg/tv-internet/paketi-fiksirani-uslugi%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=DLV_YBG_CONV_GA_Search_PRSP_E-shop_AllD_BG_yettel-tv-fwa-competitors",
       "title": "Error 404 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 807,
+      "response_time_ms": 652,
       "result": "HTTP_ERROR",
       "error": "Expected HTTP 200, got 404"
     },
@@ -1354,7 +1354,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-z-fold8-ultra-5g-standart?exact-color=%23F6F1EE&storage=512GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=45510-26338{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2789,
+      "response_time_ms": 2195,
       "result": "OK",
       "error": null
     },
@@ -1366,7 +1366,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-5g-standart?exact-color=%231312F3&storage=256GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH",
       "title": "Смартфон Samsung Galaxy S26 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2756,
+      "response_time_ms": 1547,
       "result": "OK",
       "error": null
     },
@@ -1378,7 +1378,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%231312F3&storage=256GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH",
       "title": "Смартфон Samsung Galaxy S26 Ultra 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 3195,
+      "response_time_ms": 2063,
       "result": "OK",
       "error": null
     },
@@ -1390,7 +1390,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23E8E9FF&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2904,
+      "response_time_ms": 1524,
       "result": "OK",
       "error": null
     },
@@ -1402,7 +1402,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-s25-5g?exact-color=%23000000&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2211,
+      "response_time_ms": 2092,
       "result": "OK",
       "error": null
     },
@@ -1414,7 +1414,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planId=45505-26334&filter=%5B%7B%22code%22%3A%22brand%22%2C%22values%22%3A%5B%22Samsung%22%5D%7D%5D{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 273,
+      "response_time_ms": 351,
       "result": "OK",
       "error": null
     },
@@ -1426,7 +1426,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a05s?exact-color=%23000000&storage=64GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=47041-26434-24",
       "title": "Samsung Galaxy A05s | Смартфони от Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2439,
+      "response_time_ms": 1028,
       "result": "OK",
       "error": null
     },
@@ -1438,7 +1438,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-z-flip7-5g?exact-color=%23202F59&storage=256GB&intent=NEW_ACTIVATION&paymentType=CASH",
       "title": "Смартфон Samsung Galaxy Z Flip7 5G",
       "device_details_page_found": true,
-      "response_time_ms": 2110,
+      "response_time_ms": 2082,
       "result": "OK",
       "error": null
     },
@@ -1450,7 +1450,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23223345&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2584,
+      "response_time_ms": 1609,
       "result": "OK",
       "error": null
     },
@@ -1462,7 +1462,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%233E4847&storage=128GB&intent=NO_PLAN&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 3207,
+      "response_time_ms": 1516,
       "result": "OK",
       "error": null
     },
@@ -1474,7 +1474,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23ACB3C5&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2664,
+      "response_time_ms": 2017,
       "result": "OK",
       "error": null
     },
@@ -1486,7 +1486,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a56-5g?exact-color=%23CBCDCD&storage=256GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=47041-26434-24",
       "title": "Смартфон Samsung Galaxy A56 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2631,
+      "response_time_ms": 2156,
       "result": "OK",
       "error": null
     },
@@ -1498,7 +1498,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-s25-5g?exact-color=%23AEAFB3&storage=256GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH",
       "title": "Смартфон Samsung Galaxy S25 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2161,
+      "response_time_ms": 1069,
       "result": "OK",
       "error": null
     },
@@ -1510,7 +1510,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-predlaga-nay-novite-samsung-galaxy-tableti-s9-fe-i-s9-fe-s-do-150-lv-otstpka%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Error 404 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 576,
+      "response_time_ms": 263,
       "result": "HTTP_ERROR",
       "error": "Expected HTTP 200, got 404"
     },
@@ -1522,7 +1522,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a36-5g?exact-color=%23E5EFB3&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH",
       "title": "Смартфон Samsung Galaxy A36 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2802,
+      "response_time_ms": 1543,
       "result": "OK",
       "error": null
     },
@@ -1534,7 +1534,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-plus-5g-standart?exact-color=%231312F3&storage=512GB&intent=NEW_ACTIVATION&paymentType=CASH&isPlanFirst=true?utm_source=google-search&utm_medium=cpc&utm_campaign=Samsung-brand{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 4096,
+      "response_time_ms": 1585,
       "result": "OK",
       "error": null
     },
@@ -1546,7 +1546,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/tablets/samsung/tablet-samsung-tab-s10-lite-5g-128gb?exact-color=%23777777&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1669,
+      "response_time_ms": 1054,
       "result": "OK",
       "error": null
     },
@@ -1558,7 +1558,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a26-5g?exact-color=%23EBE9E9&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2135,
+      "response_time_ms": 1036,
       "result": "OK",
       "error": null
     },
@@ -1570,7 +1570,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/landing/novite-samsung-galaxy-z-flip-z-fold%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 248,
+      "response_time_ms": 211,
       "result": "OK",
       "error": null
     },
@@ -1582,7 +1582,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-galaxy-fit-3?exact-color=%233E4847&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1566,
+      "response_time_ms": 1776,
       "result": "OK",
       "error": null
     },
@@ -1594,7 +1594,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/tablets/samsung/samsung-tab-a11-plus-5g-128gb?exact-color=%23777777&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1076,
+      "response_time_ms": 1042,
       "result": "OK",
       "error": null
     },
@@ -1606,7 +1606,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%23EBE9E9&storage=256GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH?utm_source=google-search&utm_medium=cpc&utm_campaign=Samsung-brand{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2117,
+      "response_time_ms": 1517,
       "result": "OK",
       "error": null
     },
@@ -1618,7 +1618,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/samsung/samsung-galaxy-buds4-pro?exact-color=%23FFFFFF&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1660,
+      "response_time_ms": 1588,
       "result": "OK",
       "error": null
     },
@@ -1630,7 +1630,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/samsung/samsung-galaxy-buds3-fe?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1570,
+      "response_time_ms": 1140,
       "result": "OK",
       "error": null
     },
@@ -1642,7 +1642,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-z-fold7-5g?exact-color=%23000000&storage=256GB&intent=NEW_ACTIVATION&paymentType=CASH",
       "title": "Смартфон Samsung Galaxy Z Fold7 5G",
       "device_details_page_found": true,
-      "response_time_ms": 3686,
+      "response_time_ms": 2079,
       "result": "OK",
       "error": null
     },
@@ -1654,7 +1654,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/landing/samsung-galaxy-s26-series%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 288,
+      "response_time_ms": 222,
       "result": "OK",
       "error": null
     },
@@ -1666,7 +1666,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-predlaga-samsung-galaxy-z-flip7-i-z-fold7-s-24-meseca-bezplatna-zastrakhovka%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Error 404 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 564,
+      "response_time_ms": 697,
       "result": "HTTP_ERROR",
       "error": "Expected HTTP 200, got 404"
     },
@@ -1678,7 +1678,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a16-5g?exact-color=%23777777&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1954,
+      "response_time_ms": 1730,
       "result": "OK",
       "error": null
     },
@@ -1690,7 +1690,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a17-eo?storage=128GB&exact-color=%231312F3&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2089,
+      "response_time_ms": 1030,
       "result": "OK",
       "error": null
     },
@@ -1702,7 +1702,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a17-5g?exact-color=%23000000&storage=128GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2154,
+      "response_time_ms": 2117,
       "result": "OK",
       "error": null
     },
@@ -1714,7 +1714,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-s25-ultra-5g?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2066,
+      "response_time_ms": 1537,
       "result": "OK",
       "error": null
     },
@@ -1726,7 +1726,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/tablets/samsung/samsung-tab-s11-5g-128gb?exact-color=%23777777&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1574,
+      "response_time_ms": 1049,
       "result": "OK",
       "error": null
     },
@@ -1738,7 +1738,7 @@
       "final_url": "https://www.yettel.bg/bg/news/inovativnite-slushalki-samsung-galaxy-buds4-i-buds4-pro-veche-mogat-da-bdat-porchani-ot-yettel%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Error 404 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 437,
+      "response_time_ms": 379,
       "result": "HTTP_ERROR",
       "error": "Expected HTTP 200, got 404"
     },
@@ -1750,7 +1750,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/samsung/samsung-galaxy-buds4-pro?exact-color=%23FFFFFF&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1068,
+      "response_time_ms": 1060,
       "result": "OK",
       "error": null
     },
@@ -1762,7 +1762,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch9-40mm-bt?exact-color=%23F6F1EE&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1091,
+      "response_time_ms": 1047,
       "result": "OK",
       "error": null
     },
@@ -1774,7 +1774,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%233E4847&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2688,
+      "response_time_ms": 2067,
       "result": "OK",
       "error": null
     },
@@ -1786,7 +1786,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%233E4847&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=SamsungBrand&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2212,
+      "response_time_ms": 2055,
       "result": "OK",
       "error": null
     },
@@ -1798,7 +1798,7 @@
       "final_url": "https://www.yettel.bg/bg/ekskluzivni-oferti-v-online-magazina?utm_source=AppRedirect&utm_medium=cpc&utm_campaign=MonthlyOfferSU",
       "title": "Ексклузивни смартфони - само онлайн от Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 661,
+      "response_time_ms": 409,
       "result": "OK",
       "error": null
     },
@@ -1810,7 +1810,7 @@
       "final_url": "https://www.yettel.bg/bg%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=BrandProtect&utm_term=search",
       "title": "Error 404 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 441,
+      "response_time_ms": 403,
       "result": "HTTP_ERROR",
       "error": "Expected HTTP 200, got 404"
     },
@@ -1822,7 +1822,7 @@
       "final_url": "https://www.yettel.bg/bg/tv-internet/internet-za-doma/planove",
       "title": "Интернет за дома - 5G и 4G пакети от Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 860,
+      "response_time_ms": 734,
       "result": "OK",
       "error": null
     },
@@ -1834,7 +1834,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&utm_source=google&utm_medium=cpc&utm_campaign=brand-protect",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 544,
+      "response_time_ms": 432,
       "result": "OK",
       "error": null
     },
@@ -1846,7 +1846,7 @@
       "final_url": "https://www.yettel.bg/bg",
       "title": "Yettel - мобилни планове, интернет, телевизия и устройства",
       "device_details_page_found": null,
-      "response_time_ms": 803,
+      "response_time_ms": 1049,
       "result": "OK",
       "error": null
     },
@@ -1858,7 +1858,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/plan-gallery",
       "title": "Мобилни планове | Неограничени MB и минути | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 701,
+      "response_time_ms": 730,
       "result": "OK",
       "error": null
     },
@@ -1870,7 +1870,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMART_GADGETS&paymentType=LEASE&planType=no-plan",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 535,
+      "response_time_ms": 419,
       "result": "OK",
       "error": null
     },
@@ -1882,7 +1882,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-14?exact-color=%23C4DFE6&storage=512GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5269,
+      "response_time_ms": 5204,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -1894,7 +1894,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-moto-g35-5g?exact-color=%23777777&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1595,
+      "response_time_ms": 1517,
       "result": "OK",
       "error": null
     },
@@ -1906,7 +1906,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-9-5g?exact-color=%23F5EEFB&storage=64GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5317,
+      "response_time_ms": 5219,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -1918,7 +1918,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-pro-5?exact-color=%23F7EC9F&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1641,
+      "response_time_ms": 1013,
       "result": "OK",
       "error": null
     },
@@ -1930,7 +1930,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-ultra-3-lte-49mm-titanium-case-with-trail-loop?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1083,
+      "response_time_ms": 1019,
       "result": "OK",
       "error": null
     },
@@ -1942,7 +1942,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-ultra-3-lte-49mm-titanium-case-milanese-loop?exact-color=%230E0F11&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1593,
+      "response_time_ms": 1039,
       "result": "OK",
       "error": null
     },
@@ -1954,7 +1954,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-5g-standart?exact-color=%23000000&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2091,
+      "response_time_ms": 1533,
       "result": "OK",
       "error": null
     },
@@ -1966,7 +1966,7 @@
       "final_url": "https://www.yettel.bg/bg/karta-na-pokritie?utm_source=google-search&utm_medium=cpc&utm_campaign=fwa-ao",
       "title": "Карти на покритието | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 938,
+      "response_time_ms": 1212,
       "result": "OK",
       "error": null
     },
@@ -1978,7 +1978,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-pro-5g-512gb?exact-color=%23CFAC68&storage=512GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1564,
+      "response_time_ms": 1028,
       "result": "OK",
       "error": null
     },
@@ -1990,7 +1990,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-60-5g?exact-color=%23069ADF&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1574,
+      "response_time_ms": 1013,
       "result": "OK",
       "error": null
     },
@@ -2002,7 +2002,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-5-lte-42mm-green?exact-color=%237C847D&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1082,
+      "response_time_ms": 1077,
       "result": "OK",
       "error": null
     },
@@ -2014,7 +2014,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-x7d?exact-color=%23CFAC68&storage=256GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5275,
+      "response_time_ms": 5208,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2026,7 +2026,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23ACB3C5&storage=128GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH",
       "title": "Samsung Galaxy A57 5G 128GB",
       "device_details_page_found": true,
-      "response_time_ms": 1615,
+      "response_time_ms": 1537,
       "result": "OK",
       "error": null
     },
@@ -2038,7 +2038,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-mate-50-pro-leather?exact-color=%23EDEDED&storage=512GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5411,
+      "response_time_ms": 5224,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2050,7 +2050,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb?exact-color=%23000000&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2065,
+      "response_time_ms": 1021,
       "result": "OK",
       "error": null
     },
@@ -2062,7 +2062,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-s11-lte-42mm-tit?exact-color=%23D5BBA2&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1164,
+      "response_time_ms": 1074,
       "result": "OK",
       "error": null
     },
@@ -2074,7 +2074,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-max-2?exact-color=%232A3139&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1053,
+      "response_time_ms": 1038,
       "result": "OK",
       "error": null
     },
@@ -2086,7 +2086,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a17-eo?exact-color=%23000000&storage=128GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1602,
+      "response_time_ms": 1088,
       "result": "OK",
       "error": null
     },
@@ -2098,7 +2098,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-15t-5g?exact-color=%23777777&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1051,
+      "response_time_ms": 1040,
       "result": "OK",
       "error": null
     },
@@ -2110,7 +2110,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-fit-4?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2055,
+      "response_time_ms": 1547,
       "result": "OK",
       "error": null
     },
@@ -2122,7 +2122,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-se-3-lte-44mm-2025?exact-color=%231C232B&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1063,
+      "response_time_ms": 1050,
       "result": "OK",
       "error": null
     },
@@ -2134,7 +2134,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-razr-60-ultra-5g?exact-color=%238BA9A7&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1618,
+      "response_time_ms": 1027,
       "result": "OK",
       "error": null
     },
@@ -2146,7 +2146,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-14?exact-color=%23C4DFE6&storage=128GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5276,
+      "response_time_ms": 5202,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2158,7 +2158,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-70-fusion-power-5g256gb?exact-color=%231312F3&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1557,
+      "response_time_ms": 1515,
       "result": "OK",
       "error": null
     },
@@ -2170,7 +2170,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-signature-5g-512gb?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1562,
+      "response_time_ms": 1545,
       "result": "OK",
       "error": null
     },
@@ -2182,7 +2182,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17-5g-plus-photoprinter?exact-color=%23069ADF&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1081,
+      "response_time_ms": 1048,
       "result": "OK",
       "error": null
     },
@@ -2194,7 +2194,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-6-41mm-purple-silicone?exact-color=%238C7192&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1088,
+      "response_time_ms": 1079,
       "result": "OK",
       "error": null
     },
@@ -2206,7 +2206,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-moto-g77-5-g-256gb?exact-color=%231312F3&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2107,
+      "response_time_ms": 1030,
       "result": "OK",
       "error": null
     },
@@ -2218,7 +2218,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/honor/honor-watch-6?exact-color=%23000000&intent=NO_PLAN&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2150,
+      "response_time_ms": 1024,
       "result": "OK",
       "error": null
     },
@@ -2230,7 +2230,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-600-lite-5g?exact-color=%23A2D50E&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2258,
+      "response_time_ms": 1024,
       "result": "OK",
       "error": null
     },
@@ -2242,7 +2242,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-6-pro-46mm-brown-woven?exact-color=%233F2400&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1716,
+      "response_time_ms": 1030,
       "result": "OK",
       "error": null
     },
@@ -2254,7 +2254,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-400-5g?exact-color=%23000000&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1115,
+      "response_time_ms": 1020,
       "result": "OK",
       "error": null
     },
@@ -2266,7 +2266,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17-ultra-5g?exact-color=%23000000&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2564,
+      "response_time_ms": 1540,
       "result": "OK",
       "error": null
     },
@@ -2278,7 +2278,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-4?exact-color=%23EBE9E9&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1078,
+      "response_time_ms": 1027,
       "result": "OK",
       "error": null
     },
@@ -2290,7 +2290,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-400-5g?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1622,
+      "response_time_ms": 1029,
       "result": "OK",
       "error": null
     },
@@ -2302,7 +2302,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%23EBE9E9&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 3100,
+      "response_time_ms": 1514,
       "result": "OK",
       "error": null
     },
@@ -2314,7 +2314,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-ultra-3-lte-49mm-titanium-case-with-ocean-band?exact-color=%2357626D&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1643,
+      "response_time_ms": 1555,
       "result": "OK",
       "error": null
     },
@@ -2326,7 +2326,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-fit-3-leather?exact-color=%23FFFFFF&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1095,
+      "response_time_ms": 1033,
       "result": "OK",
       "error": null
     },
@@ -2338,7 +2338,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-15?exact-color=%23464646&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1555,
+      "response_time_ms": 1083,
       "result": "OK",
       "error": null
     },
@@ -2350,7 +2350,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a17-5g?exact-color=%23000000&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1554,
+      "response_time_ms": 1080,
       "result": "OK",
       "error": null
     },
@@ -2362,7 +2362,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb?exact-color=%23000000&storage=512GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1616,
+      "response_time_ms": 1514,
       "result": "OK",
       "error": null
     },
@@ -2374,7 +2374,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-signature-5g-512gb?exact-color=%23A2D50E&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1557,
+      "response_time_ms": 1539,
       "result": "OK",
       "error": null
     },
@@ -2386,7 +2386,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-x7d%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5436,
+      "response_time_ms": 5238,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2398,7 +2398,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-air?exact-color=%23EEEAE0&storage=512GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2053,
+      "response_time_ms": 1549,
       "result": "OK",
       "error": null
     },
@@ -2410,7 +2410,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-14-5g?exact-color=%23000000&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2051,
+      "response_time_ms": 1055,
       "result": "OK",
       "error": null
     },
@@ -2422,7 +2422,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-200-5g?exact-color=%23FFFFFF&storage=512GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5250,
+      "response_time_ms": 5231,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2434,7 +2434,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-s25-edge-5g?exact-color=%2359595D&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1568,
+      "response_time_ms": 1016,
       "result": "OK",
       "error": null
     },
@@ -2446,7 +2446,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a17-5g?exact-color=%23000000&storage=128GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1602,
+      "response_time_ms": 1059,
       "result": "OK",
       "error": null
     },
@@ -2458,7 +2458,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-se-3-40mm-2025?exact-color=%231C232B&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1567,
+      "response_time_ms": 1008,
       "result": "OK",
       "error": null
     },
@@ -2470,7 +2470,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-pura-80-pro?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1081,
+      "response_time_ms": 1022,
       "result": "OK",
       "error": null
     },
@@ -2482,7 +2482,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-4?exact-color=%23EBE9E9&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2084,
+      "response_time_ms": 1540,
       "result": "OK",
       "error": null
     },
@@ -2494,7 +2494,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-s25-edge-5g?exact-color=%2329282F&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2067,
+      "response_time_ms": 1051,
       "result": "OK",
       "error": null
     },
@@ -2506,7 +2506,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-10c?exact-color=%23386A87&storage=64GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5266,
+      "response_time_ms": 5387,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2518,7 +2518,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-motog72-philips-handstick?exact-color=%23069ADF&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1052,
+      "response_time_ms": 1032,
       "result": "OK",
       "error": null
     },
@@ -2530,7 +2530,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-7i?exact-color=%23FFFFFF&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1207,
+      "response_time_ms": 1528,
       "result": "OK",
       "error": null
     },
@@ -2542,7 +2542,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-60-5g?exact-color=%237C847D&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2128,
+      "response_time_ms": 1529,
       "result": "OK",
       "error": null
     },
@@ -2554,7 +2554,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-70-5g?exact-color=%237C847D&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1605,
+      "response_time_ms": 1530,
       "result": "OK",
       "error": null
     },
@@ -2566,7 +2566,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23E8E9FF&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1659,
+      "response_time_ms": 2556,
       "result": "OK",
       "error": null
     },
@@ -2578,7 +2578,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-70-fusion-power-5g256gb?exact-color=%23A2D50E&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1207,
+      "response_time_ms": 1523,
       "result": "OK",
       "error": null
     },
@@ -2590,7 +2590,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch8-44mm-lte?exact-color=%23777777&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1191,
+      "response_time_ms": 1056,
       "result": "OK",
       "error": null
     },
@@ -2602,7 +2602,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic-v5-5g?exact-color=%23CFAC68&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1585,
+      "response_time_ms": 1032,
       "result": "OK",
       "error": null
     },
@@ -2614,7 +2614,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch7-40mm-bt?exact-color=%23F6F1EE&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1072,
+      "response_time_ms": 1030,
       "result": "OK",
       "error": null
     },
@@ -2626,7 +2626,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freeclip-2?exact-color=%23FFFFFF&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1201,
+      "response_time_ms": 1028,
       "result": "OK",
       "error": null
     },
@@ -2638,7 +2638,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch7-44mm-bt?exact-color=%23787969&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1077,
+      "response_time_ms": 1075,
       "result": "OK",
       "error": null
     },
@@ -2650,7 +2650,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-4-anc?exact-color=%23EBE9E9&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5374,
+      "response_time_ms": 5224,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2662,7 +2662,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-30-fusion-5g?exact-color=%23000000&storage=128GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1563,
+      "response_time_ms": 1012,
       "result": "OK",
       "error": null
     },
@@ -2674,7 +2674,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-200-5g?exact-color=%23000000&storage=512GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5248,
+      "response_time_ms": 5238,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2686,7 +2686,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-ultimate-2-blue?exact-color=%23069ADF&intent=NO_PLAN&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1060,
+      "response_time_ms": 1018,
       "result": "OK",
       "error": null
     },
@@ -2698,7 +2698,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-14?exact-color=%231C232B&storage=128GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5250,
+      "response_time_ms": 5233,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2709,10 +2709,10 @@
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-pro-3?exact-color=%23EBE9E9&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
-      "device_details_page_found": true,
-      "response_time_ms": 1683,
-      "result": "OK",
-      "error": null
+      "device_details_page_found": false,
+      "response_time_ms": 5342,
+      "result": "DEVICE_NOT_PUBLISHED",
+      "error": "div.device-details-page was not found or visible"
     },
     {
       "name": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-15-ultra-5g{ignore}?utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
@@ -2722,7 +2722,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-15-ultra-5g%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5263,
+      "response_time_ms": 5244,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2734,7 +2734,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-moto-g86-5g?exact-color=%23A3A5C4&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1051,
+      "response_time_ms": 1013,
       "result": "OK",
       "error": null
     },
@@ -2746,7 +2746,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-14t-pro-5g%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5279,
+      "response_time_ms": 5251,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2758,7 +2758,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-600-lite-5g?exact-color=%23A2D50E&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1560,
+      "response_time_ms": 1015,
       "result": "OK",
       "error": null
     },
@@ -2770,7 +2770,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-defy-2021?exact-color=%23000000&storage=64GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5272,
+      "response_time_ms": 5213,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2782,7 +2782,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15?exact-color=%238C7192&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1580,
+      "response_time_ms": 1039,
       "result": "OK",
       "error": null
     },
@@ -2793,10 +2793,10 @@
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-6-pro-46mm-black-silicon?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
-      "device_details_page_found": true,
-      "response_time_ms": 1073,
-      "result": "OK",
-      "error": null
+      "device_details_page_found": false,
+      "response_time_ms": 5475,
+      "result": "DEVICE_NOT_PUBLISHED",
+      "error": "div.device-details-page was not found or visible"
     },
     {
       "name": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17-5g?exact-color=%23000000&storage=512GB&intent=NEW_ACTIVATION&planId=47041-26434-24&paymentType=CASH",
@@ -2806,7 +2806,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17-5g?exact-color=%23000000&storage=512GB&intent=NEW_ACTIVATION&planId=47041-26434-24&paymentType=CASH",
       "title": "XIAOMI 17 5G",
       "device_details_page_found": true,
-      "response_time_ms": 1252,
+      "response_time_ms": 1065,
       "result": "OK",
       "error": null
     },
@@ -2818,7 +2818,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb?exact-color=%233F2400&storage=512GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1203,
+      "response_time_ms": 1022,
       "result": "OK",
       "error": null
     },
@@ -2830,7 +2830,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a14?exact-color=%23000000&storage=64GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5246,
+      "response_time_ms": 5229,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2842,7 +2842,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freearc?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1052,
+      "response_time_ms": 1023,
       "result": "OK",
       "error": null
     },
@@ -2854,7 +2854,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-c55?exact-color=%23000000&storage=128GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5372,
+      "response_time_ms": 5237,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2866,7 +2866,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a14?exact-color=%239DA1A7&storage=64GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5250,
+      "response_time_ms": 5227,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2878,7 +2878,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-nova-11i?exact-color=%23000000&storage=128GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5257,
+      "response_time_ms": 5217,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2890,7 +2890,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-se-3-44mm-2025?exact-color=%231C232B&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1061,
+      "response_time_ms": 1044,
       "result": "OK",
       "error": null
     },
@@ -2902,7 +2902,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-razr-60-5g-swarovski?exact-color=%2399A9CC&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1070,
+      "response_time_ms": 1038,
       "result": "OK",
       "error": null
     },
@@ -2914,7 +2914,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-5-pro-42mm-ceramic?exact-color=%23ECD1B5&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1164,
+      "response_time_ms": 2275,
       "result": "OK",
       "error": null
     },
@@ -2926,7 +2926,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb-plus-mili-litag?exact-color=%23A2D50E&storage=512GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5284,
+      "response_time_ms": 5229,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2938,7 +2938,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23E8E9FF&storage=128GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2070,
+      "response_time_ms": 2083,
       "result": "OK",
       "error": null
     },
@@ -2950,7 +2950,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23223345&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 3103,
+      "response_time_ms": 1518,
       "result": "OK",
       "error": null
     },
@@ -2962,7 +2962,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-pura-80-ultra?exact-color=%23CFAC68&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1119,
+      "response_time_ms": 1012,
       "result": "OK",
       "error": null
     },
@@ -2974,7 +2974,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-14?exact-color=%231C232B&storage=512GB{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5271,
+      "response_time_ms": 5266,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2985,10 +2985,10 @@
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-600-lite-5g?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
-      "device_details_page_found": true,
-      "response_time_ms": 1556,
-      "result": "OK",
-      "error": null
+      "device_details_page_found": false,
+      "response_time_ms": 5333,
+      "result": "DEVICE_NOT_PUBLISHED",
+      "error": "div.device-details-page was not found or visible"
     },
     {
       "name": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-pura-80-pro?exact-color=%23EBE9E9&storage=512GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
@@ -2997,10 +2997,10 @@
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-pura-80-pro?exact-color=%23EBE9E9&storage=512GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
-      "device_details_page_found": true,
-      "response_time_ms": 1588,
-      "result": "OK",
-      "error": null
+      "device_details_page_found": false,
+      "response_time_ms": 5341,
+      "result": "DEVICE_NOT_PUBLISHED",
+      "error": "div.device-details-page was not found or visible"
     },
     {
       "name": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15?exact-color=%23000000&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
@@ -3010,7 +3010,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15?exact-color=%23000000&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1610,
+      "response_time_ms": 2269,
       "result": "OK",
       "error": null
     },
@@ -3022,7 +3022,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-ultimate-voyage?exact-color=%232B53AA&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1071,
+      "response_time_ms": 2069,
       "result": "OK",
       "error": null
     },
@@ -3034,7 +3034,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-galaxy-fit-3?exact-color=%233E4847&intent=NO_PLAN&paymentType=LEASE{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2054,
+      "response_time_ms": 1098,
       "result": "OK",
       "error": null
     },
@@ -3046,7 +3046,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1742,
+      "response_time_ms": 1536,
       "result": "OK",
       "error": null
     },
@@ -3058,7 +3058,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-14-pro?exact-color=%23891CDD&storage=256GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1606,
+      "response_time_ms": 1087,
       "result": "OK",
       "error": null
     },
@@ -3070,7 +3070,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-moto-g84-5g-multicooker?exact-color=%23EA2F64&storage=256GB&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1086,
+      "response_time_ms": 1099,
       "result": "OK",
       "error": null
     },
@@ -3082,7 +3082,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-max-2?exact-color=%232A3139&paymentType=CASH&intent=NO_PLAN{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1578,
+      "response_time_ms": 1597,
       "result": "OK",
       "error": null
     },
@@ -3094,7 +3094,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-16-pro-plus-5g-512gb?exact-color=%233E4847&storage=512GB&paymentType=CASH{ignore}&utm_source=google&utm_medium=cpc&utm_campaign=DSABrands&utm_term=search",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 2070,
+      "response_time_ms": 1526,
       "result": "OK",
       "error": null
     },
@@ -3106,7 +3106,7 @@
       "final_url": "https://www.yettel.bg/bg/go-plus",
       "title": "Влез в платформата GO+ от Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 492,
+      "response_time_ms": 254,
       "result": "OK",
       "error": null
     },
@@ -3118,7 +3118,7 @@
       "final_url": "https://www.yettel.bg/bg/zastrahovki-oneclick%7Bignore%7D?utm_source=google&utm_medium=cpc&utm_campaign=DLV_YBG_CONV_GA_Search_MixedTgt_GoPlus_ALLD_BG_Insurance",
       "title": "Error 404 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 542,
+      "response_time_ms": 399,
       "result": "HTTP_ERROR",
       "error": "Expected HTTP 200, got 404"
     },
@@ -3130,7 +3130,7 @@
       "final_url": "https://www.yettel.bg/bg/uslugi/za-teb/100-obekta?utm_source=appredirect&utm_medium=cpc&utm_campaign=trim-100nto",
       "title": "100 Национални Туристически Обекта и Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 520,
+      "response_time_ms": 475,
       "result": "OK",
       "error": null
     },
@@ -3142,7 +3142,7 @@
       "final_url": "https://www.yettel.bg/bg/uslugi/za-teb/100-obekta?utm_source=appredirect&utm_medium=cpc&utm_campaign=trim-100nto",
       "title": "100 Национални Туристически Обекта и Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 555,
+      "response_time_ms": 368,
       "result": "OK",
       "error": null
     }
