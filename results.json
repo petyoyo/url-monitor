@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T19:23:51.515813+00:00",
+  "checked_at": "2026-11-13T13:01:34.103486+00:00",
   "count": 277,
   "results": [
     {
@@ -10,7 +10,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?exact-color=%23FFFFFF&storage=512GB&intent=NO_PLAN&paymentType=CASH&isPlanFirst=true",
       "title": "Смартфон Apple iPhone 17",
       "device_details_page_found": true,
-      "response_time_ms": 6206,
+      "response_time_ms": 7961,
       "result": "OK",
       "error": null
     },
@@ -22,7 +22,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-ultra-3-lte-49mm-titanium-case-with-ocean-band?exact-color=%2357626D&intent=NO_PLAN&paymentType=LEASE",
       "title": "Apple Watch Ultra 3 49mm LTE Черен Ocean Band и eSIM",
       "device_details_page_found": true,
-      "response_time_ms": 2249,
+      "response_time_ms": 2341,
       "result": "OK",
       "error": null
     },
@@ -34,7 +34,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro-max?exact-color=%23000000&storage=1T&paymentType=CASH&intent=NO_PLAN",
       "title": "iPhone 18 Pro Max 1TB",
       "device_details_page_found": true,
-      "response_time_ms": 2091,
+      "response_time_ms": 3306,
       "result": "OK",
       "error": null
     },
@@ -46,7 +46,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freeclip?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE",
       "title": "Безжични слушалки HUAWEI FreeClip - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2100,
+      "response_time_ms": 1695,
       "result": "OK",
       "error": null
     },
@@ -58,7 +58,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-nova-12-se",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5245,
+      "response_time_ms": 5419,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -70,7 +70,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17-pro?exact-color=%23FB4F3E&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Apple iPhone 17 Pro - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2585,
+      "response_time_ms": 2147,
       "result": "OK",
       "error": null
     },
@@ -82,7 +82,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?exact-color=%23BADA91&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Apple iPhone 17",
       "device_details_page_found": true,
-      "response_time_ms": 1556,
+      "response_time_ms": 3215,
       "result": "OK",
       "error": null
     },
@@ -94,7 +94,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-50-fusion-5g-2025?exact-color=%231312F3&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Motorola Edge 50 Fusion 5G 2025 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2062,
+      "response_time_ms": 2187,
       "result": "OK",
       "error": null
     },
@@ -106,7 +106,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-nova-11-pro?exact-color=%23A2D50E&storage=256GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5308,
+      "response_time_ms": 5373,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -118,7 +118,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-x7d?exact-color=%23CFAC68&storage=256GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5323,
+      "response_time_ms": 5281,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -130,7 +130,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-200-smart-5g?exact-color=%23000000&storage=256GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5227,
+      "response_time_ms": 5292,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -142,7 +142,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=WIRELESS_HEADPHONES&paymentType=LEASE&planType=no-plan&filter=%5B%7B%22code%22%3A%22brand%22%2C%22values%22%3A%5B%22APPLE%22%5D%7D%5D",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 416,
+      "response_time_ms": 271,
       "result": "OK",
       "error": null
     },
@@ -154,7 +154,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-gt-8-pro-5g-512-gb-dream-edition?exact-color=%231B8060&storage=512GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5235,
+      "response_time_ms": 5280,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -166,7 +166,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb?exact-color=%233F2400&storage=512GB",
       "title": "Телефон HONOR Magic8 Lite 5G",
       "device_details_page_found": true,
-      "response_time_ms": 1535,
+      "response_time_ms": 1677,
       "result": "OK",
       "error": null
     },
@@ -178,7 +178,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-predlaga-iphone-15-128-gb-s-200-lv-namalenie-pri-pokupka-onlayn",
       "title": "Yettel предлага iPhone 15 128 GB с 200 лв. намаление при покупка онлайн | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 1387,
+      "response_time_ms": 1588,
       "result": "OK",
       "error": null
     },
@@ -190,7 +190,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-400-lite-5g?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон HONOR 400 Lite 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1593,
+      "response_time_ms": 2296,
       "result": "OK",
       "error": null
     },
@@ -202,7 +202,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-air?storage=256GB&exact-color=%23373634&paymentType=LEASE&intent=NEW_ACTIVATION&planId=48701-26681-24",
       "title": "Смартфон Apple iPhone Air - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1709,
+      "response_time_ms": 2291,
       "result": "OK",
       "error": null
     },
@@ -214,7 +214,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-70-5g?exact-color=%23606E54&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "MOTOROLA Edge 70 5G 512GB",
       "device_details_page_found": true,
-      "response_time_ms": 1661,
+      "response_time_ms": 1637,
       "result": "OK",
       "error": null
     },
@@ -226,7 +226,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-plus-5g-standart?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Samsung Galaxy S26+ 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1138,
+      "response_time_ms": 2230,
       "result": "OK",
       "error": null
     },
@@ -238,7 +238,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-16e?exact-color=%23000000&storage=256GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5401,
+      "response_time_ms": 5329,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -250,7 +250,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-16-5g?exact-color=%23EBE9E9&storage=256GB",
       "title": "Realme 16 5G 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1575,
+      "response_time_ms": 1225,
       "result": "OK",
       "error": null
     },
@@ -262,7 +262,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23223345&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy A57 5G 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 2551,
+      "response_time_ms": 1658,
       "result": "OK",
       "error": null
     },
@@ -274,7 +274,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-se-3-lte-40mm-2025?exact-color=%231C232B&intent=NO_PLAN&paymentType=LEASE",
       "title": "APPLE Watch SE 3 LTE 40mm 2025",
       "device_details_page_found": true,
-      "response_time_ms": 1559,
+      "response_time_ms": 1660,
       "result": "OK",
       "error": null
     },
@@ -286,7 +286,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-mate-x7-512gb?exact-color=%23FF0C0C&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон HUAWEI Mate X7 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1641,
+      "response_time_ms": 1665,
       "result": "OK",
       "error": null
     },
@@ -298,7 +298,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?exact-color=%23868FC7&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Apple iPhone 17",
       "device_details_page_found": true,
-      "response_time_ms": 1700,
+      "response_time_ms": 2178,
       "result": "OK",
       "error": null
     },
@@ -310,7 +310,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23E8E9FF&storage=128GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy A57 5G 128GB",
       "device_details_page_found": true,
-      "response_time_ms": 1091,
+      "response_time_ms": 3490,
       "result": "OK",
       "error": null
     },
@@ -322,7 +322,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro-max?exact-color=%23AFBCCC&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "iPhone 18 Pro Max 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 2626,
+      "response_time_ms": 4171,
       "result": "OK",
       "error": null
     },
@@ -334,7 +334,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-c55?exact-color=%23FAF2D8&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5242,
+      "response_time_ms": 5307,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -346,7 +346,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planId=45505-26334",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 361,
+      "response_time_ms": 444,
       "result": "OK",
       "error": null
     },
@@ -358,7 +358,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1560,
+      "response_time_ms": 1634,
       "result": "OK",
       "error": null
     },
@@ -370,7 +370,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23ACB3C5&storage=128GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH",
       "title": "Samsung Galaxy A57 5G 128GB",
       "device_details_page_found": true,
-      "response_time_ms": 2064,
+      "response_time_ms": 1648,
       "result": "OK",
       "error": null
     },
@@ -382,7 +382,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-6-41mm-brown?exact-color=%233F2400&intent=NO_PLAN&paymentType=LEASE",
       "title": "HUAWEI Watch GT 6 41mm Brown",
       "device_details_page_found": true,
-      "response_time_ms": 1544,
+      "response_time_ms": 1819,
       "result": "OK",
       "error": null
     },
@@ -394,7 +394,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planId=45505-26334",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 396,
+      "response_time_ms": 581,
       "result": "OK",
       "error": null
     },
@@ -406,7 +406,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-14t-pro-5g?exact-color=%23000000&storage=512GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5224,
+      "response_time_ms": 5282,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -418,7 +418,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-z-flip7-fe-5g?exact-color=%23000000&storage=128GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Z Flip7 FE 5G",
       "device_details_page_found": true,
-      "response_time_ms": 2079,
+      "response_time_ms": 2143,
       "result": "OK",
       "error": null
     },
@@ -430,7 +430,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17e?exact-color=%23EBE9E9&storage=256GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5221,
+      "response_time_ms": 5299,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -442,7 +442,7 @@
       "final_url": "https://www.yettel.bg/bg/news/specialna-oferta-prez-yuni-yettel-predlaga-cyalata-seriya-iphone-16-v-paket-s-premium-plana-total-unlimited-max",
       "title": "Специална оферта през юни: Yettel предлага цялата серия iPhone 16 в пакет с премиум плана Total Unlimited MAX | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 495,
+      "response_time_ms": 582,
       "result": "OK",
       "error": null
     },
@@ -454,7 +454,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17e?exact-color=%23EBE9E9&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5347,
+      "response_time_ms": 5406,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -466,7 +466,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-nova-y91?exact-color=%23D2D1D9&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5242,
+      "response_time_ms": 5278,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -478,7 +478,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a17-eo?exact-color=%233E4847&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5251,
+      "response_time_ms": 5277,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -490,7 +490,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-fit-3-leather?exact-color=%23FFFFFF&intent=NO_PLAN&paymentType=LEASE",
       "title": "Смарт часовник HUAWEI Watch Fit 3 Leather от Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1098,
+      "response_time_ms": 1623,
       "result": "OK",
       "error": null
     },
@@ -502,7 +502,7 @@
       "final_url": "https://www.yettel.bg/bg",
       "title": "Yettel - мобилни планове, интернет, телевизия и устройства",
       "device_details_page_found": null,
-      "response_time_ms": 635,
+      "response_time_ms": 1522,
       "result": "OK",
       "error": null
     },
@@ -514,7 +514,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-s25-edge-5g?exact-color=%2329282F&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung S25 Edge 5G",
       "device_details_page_found": true,
-      "response_time_ms": 2146,
+      "response_time_ms": 2663,
       "result": "OK",
       "error": null
     },
@@ -526,7 +526,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17e?exact-color=%23EBE9E9&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5258,
+      "response_time_ms": 5295,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -538,7 +538,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb?exact-color=%23000000&storage=512GB",
       "title": "Телефон HONOR Magic8 Lite 5G",
       "device_details_page_found": true,
-      "response_time_ms": 1202,
+      "response_time_ms": 1741,
       "result": "OK",
       "error": null
     },
@@ -550,7 +550,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-14?exact-color=%23069ADF&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5222,
+      "response_time_ms": 5305,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -562,7 +562,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/plan-gallery",
       "title": "Мобилни планове | Неограничени MB и минути | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 349,
+      "response_time_ms": 470,
       "result": "OK",
       "error": null
     },
@@ -574,7 +574,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planId=45505-26334",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 368,
+      "response_time_ms": 493,
       "result": "OK",
       "error": null
     },
@@ -586,7 +586,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a56-5g?exact-color=%23B2BFB7&storage=256GB",
       "title": "Смартфон Samsung Galaxy A56 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2273,
+      "response_time_ms": 2441,
       "result": "OK",
       "error": null
     },
@@ -598,7 +598,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-gt-7-dream-edition-5g?exact-color=%23A2D50E&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Realme GT 7 Dream Edition 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1103,
+      "response_time_ms": 1193,
       "result": "OK",
       "error": null
     },
@@ -610,7 +610,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-30-neo-5g-smart-clock?exact-color=%23DDDCD8&storage=128GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Motorola Edge 30 Neo 5G в комплект - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1622,
+      "response_time_ms": 1372,
       "result": "OK",
       "error": null
     },
@@ -622,7 +622,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planId=45505-26334&filter=%5B%7B%22code%22%3A%22brand%22%2C%22values%22%3A%5B%22XIAOMI%22%5D%7D%5D",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 345,
+      "response_time_ms": 323,
       "result": "OK",
       "error": null
     },
@@ -634,7 +634,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-note-50?exact-color=%23069ADF&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5539,
+      "response_time_ms": 5302,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -646,7 +646,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-16e?exact-color=%23000000&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH&isPlanFirst=true&planId=47041-26434-24",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5216,
+      "response_time_ms": 5290,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -658,7 +658,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-16-pro?exact-color=%23434240&storage=256GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=LEASE",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5226,
+      "response_time_ms": 5297,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -670,7 +670,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-5g-standart?exact-color=%23000000&storage=256GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5234,
+      "response_time_ms": 5299,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -682,7 +682,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 217,
+      "response_time_ms": 298,
       "result": "OK",
       "error": null
     },
@@ -694,7 +694,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-air?exact-color=%23CEE2F5&storage=1T&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Apple iPhone Air - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1552,
+      "response_time_ms": 2145,
       "result": "OK",
       "error": null
     },
@@ -706,7 +706,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-gt-8-pro-5g?exact-color=%23004782&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Realme GT 8 Pro 5G в комплект - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1048,
+      "response_time_ms": 1205,
       "result": "OK",
       "error": null
     },
@@ -718,7 +718,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a17-eo?exact-color=%231312F3&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5238,
+      "response_time_ms": 5404,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -730,7 +730,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic7-pro-5g?exact-color=%23000000&storage=512GB",
       "title": "Телефон HONOR Magic7 Pro 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1048,
+      "response_time_ms": 1142,
       "result": "OK",
       "error": null
     },
@@ -742,7 +742,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-4-anc?exact-color=%23EBE9E9&paymentType=CASH&intent=NO_PLAN",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5257,
+      "response_time_ms": 5285,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -754,7 +754,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-predlaga-iphone-13-iphone-13-mini-i-iphone-12-i-12-mini-s-otstpka",
       "title": "Yettel предлага iPhone 13, iPhone 13 mini и iPhone 12 и 12 mini с отстъпка | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 534,
+      "response_time_ms": 461,
       "result": "OK",
       "error": null
     },
@@ -766,7 +766,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-moto-g54-5g?exact-color=%23464646&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5367,
+      "response_time_ms": 5463,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -778,7 +778,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-15?exact-color=%23000000&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH",
       "title": "Смартфон Apple iPhone 15 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1096,
+      "response_time_ms": 1141,
       "result": "OK",
       "error": null
     },
@@ -790,7 +790,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Apple iPhone 17",
       "device_details_page_found": true,
-      "response_time_ms": 1552,
+      "response_time_ms": 2253,
       "result": "OK",
       "error": null
     },
@@ -802,7 +802,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17-ultra-5g?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон XIAOMI 17 Ultra 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1622,
+      "response_time_ms": 1860,
       "result": "OK",
       "error": null
     },
@@ -812,9 +812,9 @@
       "type": "device",
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-s11-lte-42mm-tit?exact-color=%23D5BBA2&intent=NO_PLAN&paymentType=LEASE",
-      "title": "APPLE Watch S11 LTE 42mm Tit",
+      "title": "Apple Watch Series 11 LTE 42mm титаниев корпус",
       "device_details_page_found": true,
-      "response_time_ms": 1045,
+      "response_time_ms": 1277,
       "result": "OK",
       "error": null
     },
@@ -826,7 +826,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMART_WEARABLES&paymentType=LEASE&planType=no-plan&filter=%5B%7B%22code%22%3A%22brand%22%2C%22values%22%3A%5B%22APPLE%22%5D%7D%5D",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 239,
+      "response_time_ms": 277,
       "result": "OK",
       "error": null
     },
@@ -838,7 +838,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-pro-5g-512gb?exact-color=%23CFAC68&storage=512GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=LEASE",
       "title": "Телефон HONOR Magic8 Pro 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1040,
+      "response_time_ms": 1955,
       "result": "OK",
       "error": null
     },
@@ -850,7 +850,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23223345&storage=128GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy A57 5G 128GB",
       "device_details_page_found": true,
-      "response_time_ms": 1044,
+      "response_time_ms": 2212,
       "result": "OK",
       "error": null
     },
@@ -862,7 +862,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-ultra-3-lte-49mm-titanium-case-with-trail-loop?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE",
       "title": "Apple Watch Ultra 3 49mm LTE Trail M/L и eSIM - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1666,
+      "response_time_ms": 1748,
       "result": "OK",
       "error": null
     },
@@ -874,7 +874,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a17-eo?exact-color=%23000000&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5230,
+      "response_time_ms": 5309,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -886,7 +886,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-14?exact-color=%238C7192&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5227,
+      "response_time_ms": 5319,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -898,7 +898,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro-max?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "iPhone 18 Pro Max 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1566,
+      "response_time_ms": 2146,
       "result": "OK",
       "error": null
     },
@@ -910,7 +910,7 @@
       "final_url": "https://www.yettel.bg/en/node/46397",
       "title": "Yettel посвещава онлайн седмица на iPhone 13 с отстъпки до 300 лв. | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 705,
+      "response_time_ms": 676,
       "result": "OK",
       "error": null
     },
@@ -922,7 +922,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planId=45505-26334",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 372,
+      "response_time_ms": 586,
       "result": "OK",
       "error": null
     },
@@ -934,7 +934,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?exact-color=%23FFFFFF&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Apple iPhone 17",
       "device_details_page_found": true,
-      "response_time_ms": 2057,
+      "response_time_ms": 1630,
       "result": "OK",
       "error": null
     },
@@ -946,7 +946,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-14x-5g?exact-color=%23000000&storage=128GB",
       "title": "Телефон Realme 14x 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1544,
+      "response_time_ms": 2160,
       "result": "OK",
       "error": null
     },
@@ -958,7 +958,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17e?exact-color=%23FEE4DE&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5232,
+      "response_time_ms": 5278,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -970,7 +970,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-400-5g?exact-color=%23CFAC68&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон HONOR 400 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2048,
+      "response_time_ms": 1677,
       "result": "OK",
       "error": null
     },
@@ -982,7 +982,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-note-70t?exact-color=%23000000&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5272,
+      "response_time_ms": 5333,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -994,7 +994,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17-pro-max?exact-color=%23FB4F3E&storage=1T&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Apple iPhone 17 Pro Max - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2059,
+      "response_time_ms": 1678,
       "result": "OK",
       "error": null
     },
@@ -1006,7 +1006,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%233E4847&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy A57 5G 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1585,
+      "response_time_ms": 1183,
       "result": "OK",
       "error": null
     },
@@ -1018,7 +1018,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-14?exact-color=%23FAF14C&storage=512GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5233,
+      "response_time_ms": 5376,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -1030,7 +1030,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-200-5g?exact-color=%23000000&storage=512GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5223,
+      "response_time_ms": 5311,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -1042,7 +1042,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-16e?exact-color=%23EBE9E9&storage=256GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5233,
+      "response_time_ms": 5288,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -1054,7 +1054,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch7-40mm-lte?exact-color=%23F6F1EE&intent=NO_PLAN&paymentType=LEASE",
       "title": "Samsung Watch7 40mm LTE от Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1039,
+      "response_time_ms": 1266,
       "result": "OK",
       "error": null
     },
@@ -1066,7 +1066,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-60-5g?exact-color=%23069ADF&storage=256GB",
       "title": "Телефон Motorola Edge 60 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1047,
+      "response_time_ms": 1138,
       "result": "OK",
       "error": null
     },
@@ -1078,7 +1078,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-ultra-4-49mm-titanium-band-translucent-black",
       "title": "Apple Watch Ultra 4 LTE 49mm Titanium, Black Ocean Band",
       "device_details_page_found": true,
-      "response_time_ms": 1081,
+      "response_time_ms": 1202,
       "result": "OK",
       "error": null
     },
@@ -1090,7 +1090,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch9-40mm-lte?exact-color=%23F6F1EE&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Watch9 40mm LTE",
       "device_details_page_found": true,
-      "response_time_ms": 1060,
+      "response_time_ms": 1186,
       "result": "OK",
       "error": null
     },
@@ -1102,7 +1102,7 @@
       "final_url": "https://www.yettel.bg/bg/uslugi/predplateni-uslugi/prezarezhdane-prez-bankomat",
       "title": "Презареждане през банкомат | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 689,
+      "response_time_ms": 792,
       "result": "OK",
       "error": null
     },
@@ -1114,7 +1114,7 @@
       "final_url": "https://www.yettel.bg/bg/news/klientite-na-yettel-mogat-da-polzvat-uslugata-volte-veche-i-v-rouming",
       "title": "Клиентите на Yettel могат да ползват услугата VoLTE вече и в роуминг | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 500,
+      "response_time_ms": 594,
       "result": "OK",
       "error": null
     },
@@ -1126,7 +1126,7 @@
       "final_url": "https://www.yettel.bg/bg/razprodazhba-razopakovani-ustroystva",
       "title": "Разпродажба на разопаковани устройства в Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 591,
+      "response_time_ms": 653,
       "result": "OK",
       "error": null
     },
@@ -1138,7 +1138,7 @@
       "final_url": "https://www.yettel.bg/bg/news/inovativnite-slushalki-samsung-galaxy-buds4-i-buds4-pro-veche-mogat-da-bdat-porchani-ot-yettel",
       "title": "Иновативните слушалки Samsung Galaxy Buds4 и Buds4 Pro вече могат да бъдат поръчани от Yettel | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 630,
+      "response_time_ms": 922,
       "result": "OK",
       "error": null
     },
@@ -1150,7 +1150,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freeclip-2-s?exact-color=%2357A0F1&intent=NO_PLAN&paymentType=CASH",
       "title": "HUAWEI FreeClip 2 S",
       "device_details_page_found": true,
-      "response_time_ms": 1038,
+      "response_time_ms": 1265,
       "result": "OK",
       "error": null
     },
@@ -1162,7 +1162,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-50-fusion-5g-2025?exact-color=%231312F3&storage=256GB",
       "title": "Телефон Motorola Edge 50 Fusion 5G 2025 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1644,
+      "response_time_ms": 2143,
       "result": "OK",
       "error": null
     },
@@ -1174,7 +1174,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-5-wireless?exact-color=%23FFFFFF&paymentType=CASH&intent=NO_PLAN",
       "title": "APPLE AirPods 5 Wireless",
       "device_details_page_found": true,
-      "response_time_ms": 1062,
+      "response_time_ms": 1192,
       "result": "OK",
       "error": null
     },
@@ -1186,7 +1186,7 @@
       "final_url": "https://www.yettel.bg/bg/arkhiv/arkhiv-chastni-klienti/abonamentni-planove-pod-markata-na-globul",
       "title": "Абонаментни планове под марката на Globul | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 483,
+      "response_time_ms": 657,
       "result": "OK",
       "error": null
     },
@@ -1198,7 +1198,7 @@
       "final_url": "https://www.yettel.bg/bg/realme-16-pro-harry-potter-edition",
       "title": "Открий realme 16 Pro Harry Potter Edition в Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 839,
+      "response_time_ms": 638,
       "result": "OK",
       "error": null
     },
@@ -1210,7 +1210,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/google+pixel/google-pixel-10a-5g-128gb-plus-pixel-buds-2a?storage=128GB&exact-color=%23DADBD6&intent=NEW_ACTIVATION&paymentType=LEASE&planId=45299-26331",
       "title": "Google Pixel 10a 5G 128GB + Pixel Buds 2a",
       "device_details_page_found": true,
-      "response_time_ms": 1191,
+      "response_time_ms": 1144,
       "result": "OK",
       "error": null
     },
@@ -1222,7 +1222,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro?exact-color=%23000000&storage=512GB&intent=NEW_ACTIVATION&paymentType=LEASE&planId=45299-26331",
       "title": "iPhone 18 Pro 512GB",
       "device_details_page_found": true,
-      "response_time_ms": 1560,
+      "response_time_ms": 3213,
       "result": "OK",
       "error": null
     },
@@ -1234,7 +1234,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-6-46mm-black-rubber?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "Смарт часовник HUAWEI Watch GT 6 46mm Black Rubber",
       "device_details_page_found": true,
-      "response_time_ms": 1128,
+      "response_time_ms": 1140,
       "result": "OK",
       "error": null
     },
@@ -1246,7 +1246,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-sche-predlaga-nay-novite-ustroystva-na-apple",
       "title": "Yettel ще предлага най-новите устройства на Apple | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 497,
+      "response_time_ms": 575,
       "result": "OK",
       "error": null
     },
@@ -1258,7 +1258,7 @@
       "final_url": "https://www.yettel.bg/bg/faqs/prilozhenieto-yettel-i-ueb-portal/e-faktura",
       "title": "Е-фактура - Въпроси и Отговори - Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 498,
+      "response_time_ms": 831,
       "result": "OK",
       "error": null
     },
@@ -1270,7 +1270,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/tv/tcl/tcl-55p8l-mini-led-google-tv?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "TCL 55P8L Mini Led Google TV",
       "device_details_page_found": true,
-      "response_time_ms": 1079,
+      "response_time_ms": 1698,
       "result": "OK",
       "error": null
     },
@@ -1282,7 +1282,7 @@
       "final_url": "https://www.yettel.bg/bg/news/detskite-chasovnici-myki-v-komplekt-ss-specialna-paw-patrol-chanta-s-posobiya-za-risuvane",
       "title": "Детските часовници MyKi в комплект със специална Paw Patrol чанта с пособия за рисуване | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 554,
+      "response_time_ms": 482,
       "result": "OK",
       "error": null
     },
@@ -1294,7 +1294,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/honor/honor-earbuds-clip-2-pro?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "HONOR CHOICE Earbuds Clip 2 Pro",
       "device_details_page_found": true,
-      "response_time_ms": 1032,
+      "response_time_ms": 1148,
       "result": "OK",
       "error": null
     },
@@ -1306,7 +1306,7 @@
       "final_url": "https://www.yettel.bg/bg/news/atraktivni-komplekti-ss-smartfonite-infinix-i-cmf-samo-v-onlayn-magazina-na-yettel",
       "title": "Атрактивни комплекти със смартфоните INFINIX и CMF само в онлайн магазина на Yettel | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 588,
+      "response_time_ms": 999,
       "result": "OK",
       "error": null
     },
@@ -1318,7 +1318,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-fit-4-pro?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "Смарт часовник HUAWEI Watch Fit 4 Pro от Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1030,
+      "response_time_ms": 1623,
       "result": "OK",
       "error": null
     },
@@ -1330,7 +1330,7 @@
       "final_url": "https://www.yettel.bg/bg/tv-internet/interaktivna-tv/yettel-tv-planove-s-dogovor",
       "title": "Yettel TV абонамент и планове за интерактивна телевизия",
       "device_details_page_found": null,
-      "response_time_ms": 533,
+      "response_time_ms": 625,
       "result": "OK",
       "error": null
     },
@@ -1342,7 +1342,7 @@
       "final_url": "https://www.yettel.bg/bg/news/kakuv-smartfon-da-si-kupya",
       "title": "Наръчник: Какъв смартфон да си купя?",
       "device_details_page_found": null,
-      "response_time_ms": 873,
+      "response_time_ms": 900,
       "result": "OK",
       "error": null
     },
@@ -1354,7 +1354,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/locon/locon-watch-luna?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "LOCON Watch Luna",
       "device_details_page_found": true,
-      "response_time_ms": 1530,
+      "response_time_ms": 1723,
       "result": "OK",
       "error": null
     },
@@ -1366,7 +1366,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-pura-90s-pro-max-5g?exact-color=%23FB4F3E&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "HUAWEI Pura 90s Pro Max 5G 512GB",
       "device_details_page_found": true,
-      "response_time_ms": 1086,
+      "response_time_ms": 1631,
       "result": "OK",
       "error": null
     },
@@ -1378,7 +1378,7 @@
       "final_url": "https://www.yettel.bg/bg/news/roaming-za-hora-koito-putuvat-chesto",
       "title": "Роуминг услуги за хора, които пътуват често",
       "device_details_page_found": null,
-      "response_time_ms": 861,
+      "response_time_ms": 767,
       "result": "OK",
       "error": null
     },
@@ -1388,9 +1388,9 @@
       "type": "device",
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17t-pro-5g?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN",
-      "title": "XIAOMI 17T Pro 5G",
+      "title": "XIAOMI 17T Pro 5G – Leica камера и 7000 mAh батерия | Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1043,
+      "response_time_ms": 1660,
       "result": "OK",
       "error": null
     },
@@ -1400,9 +1400,9 @@
       "type": "device",
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17t-5g-512gb-plus-vacuum-cleaner-g20-lite",
-      "title": "XIAOMI 17T 5G 512GB + Vacuum Cleaner G20 Lite",
+      "title": "XIAOMI 17T 5G + Прахосмукачка G20 Lite | Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1661,
+      "response_time_ms": 1204,
       "result": "OK",
       "error": null
     },
@@ -1414,7 +1414,7 @@
       "final_url": "https://www.yettel.bg/bg/ekskluzivni-oferti-v-online-magazina",
       "title": "Ексклузивни смартфони - само онлайн от Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 901,
+      "response_time_ms": 975,
       "result": "OK",
       "error": null
     },
@@ -1426,7 +1426,7 @@
       "final_url": "https://www.yettel.bg/en/node/47800",
       "title": "Yettel Cloud - твоето облачно пространство",
       "device_details_page_found": null,
-      "response_time_ms": 1257,
+      "response_time_ms": 1051,
       "result": "OK",
       "error": null
     },
@@ -1438,7 +1438,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-17-pro-5g?exact-color=%23891CDD&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "XIAOMI Redmi Note 17 Pro 5G 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1634,
+      "response_time_ms": 2190,
       "result": "OK",
       "error": null
     },
@@ -1450,7 +1450,7 @@
       "final_url": "https://www.yettel.bg/en/node/47089",
       "title": "Интернет за дома - 5G и 4G пакети от Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 374,
+      "response_time_ms": 320,
       "result": "OK",
       "error": null
     },
@@ -1462,7 +1462,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "XIAOMI Redmi Note 15 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 2212,
+      "response_time_ms": 2360,
       "result": "OK",
       "error": null
     },
@@ -1474,7 +1474,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/honor/honor-watch-6-earbuds-clip?exact-color=%233F2400&intent=NO_PLAN&paymentType=CASH",
       "title": "HONOR Watch 6 Brown Leather + Earbuds Clip",
       "device_details_page_found": true,
-      "response_time_ms": 1045,
+      "response_time_ms": 1206,
       "result": "OK",
       "error": null
     },
@@ -1486,7 +1486,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/locon/locon-watch-luna?exact-color=%23D25E7B&paymentType=CASH&intent=NO_PLAN",
       "title": "LOCON Watch Luna",
       "device_details_page_found": true,
-      "response_time_ms": 1043,
+      "response_time_ms": 1347,
       "result": "OK",
       "error": null
     },
@@ -1498,7 +1498,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/garmin/garmin-fenix-8-sapph-51mm-titan-orange",
       "title": "Смарт часовник GARMIN fenix 8 Sapph 51mm Titan Orange DLC",
       "device_details_page_found": true,
-      "response_time_ms": 1051,
+      "response_time_ms": 1182,
       "result": "OK",
       "error": null
     },
@@ -1510,7 +1510,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/honor/honor-headphones-lite?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "HONOR CHOICE Headphones Lite",
       "device_details_page_found": true,
-      "response_time_ms": 1062,
+      "response_time_ms": 2159,
       "result": "OK",
       "error": null
     },
@@ -1522,7 +1522,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-600-pro-5g-plus-earbuds-clip?storage=512GB&exact-color=%23CFAC68&paymentType=CASH&intent=NO_PLAN",
       "title": "HONOR 600 Pro 5G 512GB + HONOR Choice Earbuds Clip Active",
       "device_details_page_found": true,
-      "response_time_ms": 1072,
+      "response_time_ms": 2249,
       "result": "OK",
       "error": null
     },
@@ -1534,7 +1534,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17-pro-max?storage=256GB&exact-color=%23D2D1D9&intent=NEW_ACTIVATION&paymentType=LEASE&planId=48701-26681-24",
       "title": "Смартфон Apple iPhone 17 Pro Max - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1086,
+      "response_time_ms": 4149,
       "result": "OK",
       "error": null
     },
@@ -1544,9 +1544,9 @@
       "type": "device",
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-14-pro-5g?exact-color=%23777777&storage=512GB&paymentType=CASH",
-      "title": "Realme 14 Pro+ 5G",
+      "title": "realme 14 Pro+ 5G | Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1162,
+      "response_time_ms": 1638,
       "result": "OK",
       "error": null
     },
@@ -1558,7 +1558,7 @@
       "final_url": "https://www.yettel.bg/bg/uslugi/predplateni-uslugi/prezarezhdane-s-vaucheri",
       "title": "Презареждане с ваучери | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 533,
+      "response_time_ms": 773,
       "result": "OK",
       "error": null
     },
@@ -1570,7 +1570,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/garmin/garmin-instinct-3-50mm-amoled?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "Смарт часовник GARMIN Instinct 3 50mm AMOLED",
       "device_details_page_found": true,
-      "response_time_ms": 1030,
+      "response_time_ms": 1187,
       "result": "OK",
       "error": null
     },
@@ -1582,7 +1582,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-neo?exact-color=%23C4C4C4&paymentType=CASH&intent=NO_PLAN",
       "title": "HUAWEI FreeBuds Neo",
       "device_details_page_found": true,
-      "response_time_ms": 1041,
+      "response_time_ms": 1167,
       "result": "OK",
       "error": null
     },
@@ -1594,7 +1594,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-signature-5g-swarovski-plus-moto-buds-plus-2?exact-color=%23069ADF&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Motorola Razr 60 Ultra 5G Swarovski Phone Bundle",
       "device_details_page_found": true,
-      "response_time_ms": 1822,
+      "response_time_ms": 2245,
       "result": "OK",
       "error": null
     },
@@ -1606,7 +1606,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-12t-5g?exact-color=%23D2D1D9&storage=128GB&paymentType=CASH&intent=NO_PLAN",
       "title": "XIAOMI 12T 5G 128GB",
       "device_details_page_found": true,
-      "response_time_ms": 1128,
+      "response_time_ms": 1639,
       "result": "OK",
       "error": null
     },
@@ -1618,7 +1618,7 @@
       "final_url": "https://www.yettel.bg/bg/tv-internet/paketi-fiksirani-uslugi",
       "title": "Интернет и телевизия за дома - оферти от Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 522,
+      "response_time_ms": 1126,
       "result": "OK",
       "error": null
     },
@@ -1630,7 +1630,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-5-lte-42mm-white-black-strap",
       "title": "Смарт часовник HUAWEI Watch 5 LTE 42mm White + Black Strap",
       "device_details_page_found": true,
-      "response_time_ms": 1649,
+      "response_time_ms": 1760,
       "result": "OK",
       "error": null
     },
@@ -1642,7 +1642,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planType=recommended",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 225,
+      "response_time_ms": 275,
       "result": "OK",
       "error": null
     },
@@ -1654,7 +1654,7 @@
       "final_url": "https://www.yettel.bg/en/node/45864",
       "title": "Storytel - открий аудиокниги и е-книги с Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 343,
+      "response_time_ms": 954,
       "result": "OK",
       "error": null
     },
@@ -1666,7 +1666,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/apple/apple-airpods-pro-3?exact-color=%23EBE9E9&paymentType=CASH&intent=NO_PLAN",
       "title": "Безжични слушалки APPLE AirPods Pro 3 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1178,
+      "response_time_ms": 2899,
       "result": "OK",
       "error": null
     },
@@ -1678,7 +1678,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-predlaga-zashemetyavaschiya-nov-flagman-na-huawei-nova",
       "title": "Yettel предлага зашеметяващия нов флагман на HUAWEI nova | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 847,
+      "response_time_ms": 881,
       "result": "OK",
       "error": null
     },
@@ -1690,7 +1690,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-dobavya-vzmozhnost-za-registraciya-na-predplatena-karta-v-mobilnoto-si-prilozhenie",
       "title": "Yettel добавя възможност за регистрация на предплатена карта в мобилното си приложение | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 500,
+      "response_time_ms": 766,
       "result": "OK",
       "error": null
     },
@@ -1702,7 +1702,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a16?exact-color=%23A2D50E&storage=128GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Samsung Galaxy A16 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1090,
+      "response_time_ms": 1683,
       "result": "OK",
       "error": null
     },
@@ -1714,7 +1714,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/accessories/celly/celly-wallet-card-holder-with-magsafe?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "CELLY Wallet Card Holder с MagSafe",
       "device_details_page_found": true,
-      "response_time_ms": 1134,
+      "response_time_ms": 1148,
       "result": "OK",
       "error": null
     },
@@ -1726,7 +1726,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/mobile_phones/hmd/hmd-110-4g?exact-color=%23777777&storage=64MB&paymentType=CASH&intent=NO_PLAN",
       "title": "HMD 110 4G Titanium 64MB",
       "device_details_page_found": true,
-      "response_time_ms": 1070,
+      "response_time_ms": 1189,
       "result": "OK",
       "error": null
     },
@@ -1738,7 +1738,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-band-10?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "Смарт гривна HUAWEI Band 10 от Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1071,
+      "response_time_ms": 1261,
       "result": "OK",
       "error": null
     },
@@ -1750,7 +1750,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/accessories/sbs/sbs-45w-gan-power-adapter-usb-c?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "Зарядно SBS 45W GaN Power Adapter USB-C",
       "device_details_page_found": true,
-      "response_time_ms": 1173,
+      "response_time_ms": 1630,
       "result": "OK",
       "error": null
     },
@@ -1762,7 +1762,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/tablets/lenovo/lenovo-idea-tab-plus-5g-plus-pen-256gb?exact-color=%23777777&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "LENOVO Idea Tab Plus 5G в комплект с писалка 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1051,
+      "response_time_ms": 1162,
       "result": "OK",
       "error": null
     },
@@ -1774,7 +1774,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-szdava-koledno-nastroenie-s-tombola-s-nagradi-pri-pokupka-na-izbrani-ustroystva",
       "title": "Yettel създава коледно настроение с томбола, с награди при покупка на избрани устройства | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 743,
+      "response_time_ms": 634,
       "result": "OK",
       "error": null
     },
@@ -1786,7 +1786,7 @@
       "final_url": "https://www.yettel.bg/bg/news/internet-s-pristiganeto-s-novata-predplatena-esim-za-mobilen-internet",
       "title": "Интернет с пристигането – с новата предплатена eSIM за мобилен интернет | [site:name",
       "device_details_page_found": null,
-      "response_time_ms": 491,
+      "response_time_ms": 484,
       "result": "OK",
       "error": null
     },
@@ -1796,9 +1796,9 @@
       "type": "device",
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/oppo/oppo-find-x9-ultra-5g?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN",
-      "title": "OPPO Find X9 Ultra 5G",
+      "title": "OPPO Find X9 Ultra | Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1040,
+      "response_time_ms": 1137,
       "result": "OK",
       "error": null
     },
@@ -1810,7 +1810,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-moto-g35-5g?exact-color=%23A2D50E&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Motorola Moto G35 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1078,
+      "response_time_ms": 1832,
       "result": "OK",
       "error": null
     },
@@ -1822,7 +1822,7 @@
       "final_url": "https://www.yettel.bg/bg/rouming/standartni-ceni",
       "title": "Стандартни цени в роуминг | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 566,
+      "response_time_ms": 644,
       "result": "OK",
       "error": null
     },
@@ -1834,7 +1834,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/accessories/apple/apple-20w-usb-c-power-adapter-md3j4zm-a?exact-color=%23FFFFFF&paymentType=CASH&intent=NO_PLAN",
       "title": "APPLE 20W USB-C Power Adapter MD3J4ZM/A",
       "device_details_page_found": true,
-      "response_time_ms": 1028,
+      "response_time_ms": 1146,
       "result": "OK",
       "error": null
     },
@@ -1846,7 +1846,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-d2?exact-color=%23FFFFFF&paymentType=CASH&intent=NO_PLAN",
       "title": "Купи смарт часовник HUAWEI Watch D2 на супер цена",
       "device_details_page_found": true,
-      "response_time_ms": 1091,
+      "response_time_ms": 1141,
       "result": "OK",
       "error": null
     },
@@ -1858,7 +1858,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/landing/koledni-oferti-xiaomi",
       "title": "Новогодишни оферти | Xiaomi | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 242,
+      "response_time_ms": 284,
       "result": "OK",
       "error": null
     },
@@ -1870,7 +1870,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-14?exact-color=%23069ADF&storage=256GB",
       "title": "Смартфон XIAOMI Redmi Note 14 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1759,
+      "response_time_ms": 1675,
       "result": "OK",
       "error": null
     },
@@ -1882,7 +1882,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-zapochva-da-predlaga-visokokachestvenite-aksesoari-na-belkin",
       "title": "Yettel започва да предлага висококачествените аксесоари на Belkin | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 780,
+      "response_time_ms": 819,
       "result": "OK",
       "error": null
     },
@@ -1894,7 +1894,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-ultimate-2-green?exact-color=%23A2D50E&paymentType=CASH&intent=NO_PLAN",
       "title": "HUAWEI Watch Ultimate 2 Green",
       "device_details_page_found": true,
-      "response_time_ms": 1099,
+      "response_time_ms": 1322,
       "result": "OK",
       "error": null
     },
@@ -1906,7 +1906,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/infinix/infinix-note-40-pro?exact-color=%23A2D50E&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Infinix Note 40 Pro",
       "device_details_page_found": true,
-      "response_time_ms": 1043,
+      "response_time_ms": 1867,
       "result": "OK",
       "error": null
     },
@@ -1918,7 +1918,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freeclip-2-s?exact-color=%23C4C4C4&paymentType=CASH&intent=NO_PLAN",
       "title": "HUAWEI FreeClip 2 S",
       "device_details_page_found": true,
-      "response_time_ms": 1076,
+      "response_time_ms": 1156,
       "result": "OK",
       "error": null
     },
@@ -1930,7 +1930,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/samsung/samsung-galaxy-buds3?exact-color=%23FFFFFF&intent=NO_PLAN&paymentType=LEASE",
       "title": "Безжични слушалки Samsung Galaxy Buds3 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1069,
+      "response_time_ms": 2196,
       "result": "OK",
       "error": null
     },
@@ -1942,7 +1942,7 @@
       "final_url": "https://www.yettel.bg/en/node/45863",
       "title": "VOYO - активирай абонамент с Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 403,
+      "response_time_ms": 539,
       "result": "OK",
       "error": null
     },
@@ -1954,7 +1954,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-ultra-2-49mm-lte-titanium-case-milanese-loop?exact-color=%238F8C87&paymentType=CASH&intent=NO_PLAN",
       "title": "Apple Watch Ultra 2 49mm LTE Titanium Case Milanese Loop",
       "device_details_page_found": true,
-      "response_time_ms": 1581,
+      "response_time_ms": 2336,
       "result": "OK",
       "error": null
     },
@@ -1966,7 +1966,7 @@
       "final_url": "https://insurance.yettel.bg/zastrahovka-imushtestvo/?_gl=1*1k0v7rb*_gcl_au*MTI5NTI1NDI3OC4xNzgxODY2MTI0Li0uLS4xNzg1MzE0NTg5LjEzNTkwNzYyODEuMTc4NjYyNTM1NC4xNzg2NzEwOTIx*_ga*ODkxMzgzMzgwLjE3ODE4NjYxMjQ.*_ga_GH5XT79HF7*https://insurance.yettel.bg/zastrahovka-imushtestvo/",
       "title": "Застраховка Имущество | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 947,
+      "response_time_ms": 1080,
       "result": "OK",
       "error": null
     },
@@ -1978,7 +1978,7 @@
       "final_url": "https://www.yettel.bg/bg/nashata-mrezha/5g",
       "title": "5G мрежата на Yettel - максимално изживяване",
       "device_details_page_found": null,
-      "response_time_ms": 592,
+      "response_time_ms": 1077,
       "result": "OK",
       "error": null
     },
@@ -1990,7 +1990,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-60-5g?exact-color=%237C847D&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Motorola Edge 60 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2074,
+      "response_time_ms": 1730,
       "result": "OK",
       "error": null
     },
@@ -2002,7 +2002,7 @@
       "final_url": "https://www.yettel.bg/bg/uslugi/uslugi/sim-karti",
       "title": "SIM карти | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 640,
+      "response_time_ms": 556,
       "result": "OK",
       "error": null
     },
@@ -2014,7 +2014,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-600-pro-5g-plus-earbuds-clip?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "HONOR 600 Pro 5G 512GB + HONOR Choice Earbuds Clip Active",
       "device_details_page_found": true,
-      "response_time_ms": 1535,
+      "response_time_ms": 1740,
       "result": "OK",
       "error": null
     },
@@ -2026,7 +2026,7 @@
       "final_url": "https://b2b.yettel.bg/bg/uslugi/sip-trunk",
       "title": "SIP Trunk | Yettel България",
       "device_details_page_found": null,
-      "response_time_ms": 1688,
+      "response_time_ms": 1636,
       "result": "OK",
       "error": null
     },
@@ -2038,7 +2038,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-startira-predvaritelnite-porchki-za-novite-modeli-iphone-apple-watch-i-airpods",
       "title": "Yettel стартира предварителните поръчки за новите модели iPhone, Apple Watch и AirPods | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 857,
+      "response_time_ms": 555,
       "result": "OK",
       "error": null
     },
@@ -2050,7 +2050,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/google%20pixel/google-pixel-11-5g?exact-color=%23171B38&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Google Pixel 11 5G 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1059,
+      "response_time_ms": 1961,
       "result": "OK",
       "error": null
     },
@@ -2062,7 +2062,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17-pro-max?exact-color=%23069ADF&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Apple iPhone 17 Pro Max - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1571,
+      "response_time_ms": 2163,
       "result": "OK",
       "error": null
     },
@@ -2074,7 +2074,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-14s-256bg?exact-color=%23891CDD&storage=256GB",
       "title": "Смартфон XIAOMI Redmi Note 14S - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1150,
+      "response_time_ms": 1227,
       "result": "OK",
       "error": null
     },
@@ -2086,7 +2086,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-5-41mm-white-leather?exact-color=%23EFEDEA&paymentType=CASH&intent=NO_PLAN",
       "title": "Смарт часовник HUAWEI Watch GT 5 41mm White Leather",
       "device_details_page_found": true,
-      "response_time_ms": 1803,
+      "response_time_ms": 1343,
       "result": "OK",
       "error": null
     },
@@ -2098,7 +2098,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-5-46mm-black-rubber?exact-color=%23000000&paymentType=CASH&intent=NO_PLAN",
       "title": "Смарт часовник HUAWEI Watch GT 5 46mm Black Rubber",
       "device_details_page_found": true,
-      "response_time_ms": 1077,
+      "response_time_ms": 1286,
       "result": "OK",
       "error": null
     },
@@ -2110,7 +2110,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-startira-prodazhbite-na-nay-novite-modeli-smartfoni-ot-seriyata-xiaomi-13",
       "title": "Yettel стартира продажбите на най-новите модели смартфони от серията XIAOMI 13 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 748,
+      "response_time_ms": 749,
       "result": "OK",
       "error": null
     },
@@ -2122,7 +2122,7 @@
       "final_url": "https://www.yettel.bg/bg/rouming/rouming-paketi",
       "title": "Роуминг пакети – интернет и минути в чужбина | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 842,
+      "response_time_ms": 696,
       "result": "OK",
       "error": null
     },
@@ -2134,7 +2134,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-600-5g-plus-earbuds-clip?exact-color=%23FB4F3E&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "HONOR 600 5G 512GB + HONOR Choice Earbuds Clip Active",
       "device_details_page_found": true,
-      "response_time_ms": 1581,
+      "response_time_ms": 1371,
       "result": "OK",
       "error": null
     },
@@ -2144,9 +2144,9 @@
       "type": "device",
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17-5g?exact-color=%23069ADF&storage=512GB&paymentType=CASH&intent=NO_PLAN",
-      "title": "XIAOMI 17 5G",
+      "title": "XIAOMI 17 5G | Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1057,
+      "response_time_ms": 1733,
       "result": "OK",
       "error": null
     },
@@ -2158,7 +2158,7 @@
       "final_url": "https://www.yettel.bg/bg/go-plus",
       "title": "Влез в платформата GO+ от Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 635,
+      "response_time_ms": 615,
       "result": "OK",
       "error": null
     },
@@ -2168,9 +2168,9 @@
       "type": "device",
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-14-pro-5g?exact-color=%23777777&storage=512GB&paymentType=CASH&intent=NO_PLAN",
-      "title": "Realme 14 Pro+ 5G",
+      "title": "realme 14 Pro+ 5G | Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1643,
+      "response_time_ms": 1289,
       "result": "OK",
       "error": null
     },
@@ -2182,7 +2182,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-15t-5g?exact-color=%23777777&storage=512GB",
       "title": "Смартфон XIAOMI 15T 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1591,
+      "response_time_ms": 1719,
       "result": "OK",
       "error": null
     },
@@ -2194,7 +2194,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb?exact-color=%23000000&storage=512GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24",
       "title": "Телефон HONOR Magic8 Lite 5G",
       "device_details_page_found": true,
-      "response_time_ms": 1065,
+      "response_time_ms": 1210,
       "result": "OK",
       "error": null
     },
@@ -2206,7 +2206,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-a36-5g?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Samsung Galaxy A36 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1109,
+      "response_time_ms": 2176,
       "result": "OK",
       "error": null
     },
@@ -2218,7 +2218,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-ultra-2-49mm-lte-titanium-case-milanese-loop?exact-color=%238F8C87&intent=NO_PLAN&paymentType=LEASE",
       "title": "Apple Watch Ultra 2 49mm LTE Titanium Case Milanese Loop",
       "device_details_page_found": true,
-      "response_time_ms": 1089,
+      "response_time_ms": 1149,
       "result": "OK",
       "error": null
     },
@@ -2230,7 +2230,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15-eo?exact-color=%23000000&storage=256GB&intent=NEW_ACTIVATION&paymentType=CASH",
       "title": "XIAOMI Redmi Note 15 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1548,
+      "response_time_ms": 1175,
       "result": "OK",
       "error": null
     },
@@ -2242,7 +2242,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-15-eo?exact-color=%23000000&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "XIAOMI Redmi Note 15 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1567,
+      "response_time_ms": 1713,
       "result": "OK",
       "error": null
     },
@@ -2254,7 +2254,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-note-70t?exact-color=%23CFAC68&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5240,
+      "response_time_ms": 5285,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2266,7 +2266,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-c55?exact-color=%23000000&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5223,
+      "response_time_ms": 5284,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2278,7 +2278,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planId=45505-26334",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 1212,
+      "response_time_ms": 1371,
       "result": "OK",
       "error": null
     },
@@ -2290,7 +2290,7 @@
       "final_url": "https://www.yettel.bg/bg/tv-internet/internet-za-doma/planove",
       "title": "Интернет за дома - 5G и 4G пакети от Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 1427,
+      "response_time_ms": 1365,
       "result": "OK",
       "error": null
     },
@@ -2302,7 +2302,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-70-fusion-power-5g256gb?exact-color=%23A2D50E&storage=256GB",
       "title": "MOTOROLA Edge 70 Fusion Power 5G 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 2088,
+      "response_time_ms": 1740,
       "result": "OK",
       "error": null
     },
@@ -2314,7 +2314,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a37-5g?exact-color=%23868FC7&storage=256GB",
       "title": "Samsung Galaxy A37 5G 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1558,
+      "response_time_ms": 1651,
       "result": "OK",
       "error": null
     },
@@ -2326,7 +2326,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-5-lte-46mm-silver?exact-color=%2359595D&intent=NO_PLAN&paymentType=LEASE",
       "title": "Смарт часовник HUAWEI Watch 5 LTE 46mm Silver от Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1608,
+      "response_time_ms": 2262,
       "result": "OK",
       "error": null
     },
@@ -2338,7 +2338,7 @@
       "final_url": "https://play.google.com/store/apps/details?id=bg.telenor.mytelenor",
       "title": "Yettel Bulgaria - Apps on Google Play",
       "device_details_page_found": null,
-      "response_time_ms": 624,
+      "response_time_ms": 397,
       "result": "OK",
       "error": null
     },
@@ -2350,7 +2350,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-s25-edge-5g?exact-color=%2359595D&storage=256GB",
       "title": "Samsung S25 Edge 5G",
       "device_details_page_found": true,
-      "response_time_ms": 1416,
+      "response_time_ms": 2242,
       "result": "OK",
       "error": null
     },
@@ -2362,7 +2362,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-12-pro-5g?exact-color=%23069ADF&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Realme 12 Pro+ 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1176,
+      "response_time_ms": 1246,
       "result": "OK",
       "error": null
     },
@@ -2374,7 +2374,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-16?exact-color=%23000000&storage=128GB&paymentType=CASH&intent=NO_PLAN",
       "title": "iPhone 16 128GB",
       "device_details_page_found": true,
-      "response_time_ms": 1601,
+      "response_time_ms": 1147,
       "result": "OK",
       "error": null
     },
@@ -2386,7 +2386,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-15t-5g?exact-color=%23FFDCD9&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон XIAOMI 15T 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1542,
+      "response_time_ms": 2144,
       "result": "OK",
       "error": null
     },
@@ -2398,7 +2398,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-6?exact-color=%23EBE9E9&intent=NO_PLAN&paymentType=LEASE",
       "title": "Безжични слушалки HUAWEI FreeBuds 6 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1100,
+      "response_time_ms": 1285,
       "result": "OK",
       "error": null
     },
@@ -2410,7 +2410,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%23BCBCD4&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Samsung Galaxy S26 Ultra 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1540,
+      "response_time_ms": 2332,
       "result": "OK",
       "error": null
     },
@@ -2422,7 +2422,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-12?exact-color=%239BC7E3&storage=128GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5259,
+      "response_time_ms": 5321,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2434,7 +2434,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch-ultra-47mm-lte?exact-color=%23777777&intent=NO_PLAN&paymentType=LEASE",
       "title": "Samsung Watch Ultra 47mm LTE",
       "device_details_page_found": true,
-      "response_time_ms": 1113,
+      "response_time_ms": 1740,
       "result": "OK",
       "error": null
     },
@@ -2446,7 +2446,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?exact-color=%23BADA91&storage=512GB&intent=NO_PLAN&paymentType=CASH&isPlanFirst=true",
       "title": "Смартфон Apple iPhone 17",
       "device_details_page_found": true,
-      "response_time_ms": 1684,
+      "response_time_ms": 2307,
       "result": "OK",
       "error": null
     },
@@ -2458,7 +2458,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17e?exact-color=%23000000&storage=512GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5228,
+      "response_time_ms": 5351,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2470,7 +2470,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/wireless_headphones/huawei/huawei-freebuds-se-4?exact-color=%23EBE9E9&intent=NO_PLAN&paymentType=LEASE",
       "title": "Безжични слушалки HUAWEI FreeBuds SE 4 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1036,
+      "response_time_ms": 2200,
       "result": "OK",
       "error": null
     },
@@ -2482,7 +2482,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-c30?exact-color=%23000000&storage=32GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5228,
+      "response_time_ms": 5289,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2494,7 +2494,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?exact-color=%23FFFFFF&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Apple iPhone 17",
       "device_details_page_found": true,
-      "response_time_ms": 1710,
+      "response_time_ms": 1700,
       "result": "OK",
       "error": null
     },
@@ -2506,7 +2506,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-5-lte-42mm-white-black-strap?exact-color=%23EBE9E9&intent=NO_PLAN&paymentType=LEASE",
       "title": "Смарт часовник HUAWEI Watch 5 LTE 42mm White + Black Strap",
       "device_details_page_found": true,
-      "response_time_ms": 1596,
+      "response_time_ms": 2274,
       "result": "OK",
       "error": null
     },
@@ -2518,7 +2518,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-s10-46mm-lte-titanium-milanese-loop?exact-color=%23434240&intent=NO_PLAN&paymentType=LEASE",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5248,
+      "response_time_ms": 5328,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2530,7 +2530,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?storage=512GB&exact-color=%23FFFFFF&intent=NEW_ACTIVATION&paymentType=LEASE&planId=48701-26681-24",
       "title": "Смартфон Apple iPhone 17",
       "device_details_page_found": true,
-      "response_time_ms": 2506,
+      "response_time_ms": 1659,
       "result": "OK",
       "error": null
     },
@@ -2542,7 +2542,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-se-3-44mm-2025?exact-color=%231C232B&intent=NO_PLAN&paymentType=LEASE",
       "title": "Apple Watch SE 3 40mm M/L, 2025 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1652,
+      "response_time_ms": 1767,
       "result": "OK",
       "error": null
     },
@@ -2554,7 +2554,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-blgariya-priema-predvaritelni-porchki-za-nay-noviya-iphone-13",
       "title": "Yettel България приема предварителни поръчки за най-новия iPhone 13 | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 501,
+      "response_time_ms": 721,
       "result": "OK",
       "error": null
     },
@@ -2566,7 +2566,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-18-pro-max?exact-color=%23836068&storage=2T&paymentType=CASH&intent=NO_PLAN",
       "title": "iPhone 18 Pro Max 2TB",
       "device_details_page_found": true,
-      "response_time_ms": 1657,
+      "response_time_ms": 2235,
       "result": "OK",
       "error": null
     },
@@ -2578,7 +2578,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-s25-fe-5g?exact-color=%23223345&storage=256GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5228,
+      "response_time_ms": 5283,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2590,7 +2590,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/realme/realme-9-5g?exact-color=%23F5EEFB&storage=64GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5246,
+      "response_time_ms": 5289,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2602,7 +2602,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-note-13-pro-5g?exact-color=%23000000&storage=512GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5217,
+      "response_time_ms": 5272,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2614,7 +2614,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-10-5g?exact-color=%23529E95&storage=64GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5219,
+      "response_time_ms": 5287,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2626,7 +2626,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17-ultra-5g?exact-color=%23529E95&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон XIAOMI 17 Ultra 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1546,
+      "response_time_ms": 1123,
       "result": "OK",
       "error": null
     },
@@ -2638,7 +2638,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-50-fusion-5g-2025?exact-color=%231B8060&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Motorola Edge 50 Fusion 5G 2025 - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1076,
+      "response_time_ms": 1666,
       "result": "OK",
       "error": null
     },
@@ -2650,7 +2650,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-s10-42mm-lte-titanium-sport-band?exact-color=%23F9F4F0&intent=NO_PLAN&paymentType=LEASE",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5246,
+      "response_time_ms": 5330,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2662,7 +2662,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-16",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1219,
+      "response_time_ms": 3208,
       "result": "OK",
       "error": null
     },
@@ -2674,7 +2674,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-5-46mm-blue?exact-color=%23069ADF&intent=NO_PLAN&paymentType=LEASE",
       "title": "Смарт часовник HUAWEI Watch GT 5 46mm Blue от Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1083,
+      "response_time_ms": 1629,
       "result": "OK",
       "error": null
     },
@@ -2684,9 +2684,9 @@
       "type": "device",
       "status": 200,
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-17-5g?exact-color=%23000000&storage=512GB&intent=NEW_ACTIVATION&planId=47041-26434-24&paymentType=CASH",
-      "title": "XIAOMI 17 5G",
+      "title": "XIAOMI 17 5G | Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1100,
+      "response_time_ms": 1172,
       "result": "OK",
       "error": null
     },
@@ -2698,7 +2698,7 @@
       "final_url": "https://www.yettel.bg/bg",
       "title": "Yettel - мобилни планове, интернет, телевизия и устройства",
       "device_details_page_found": null,
-      "response_time_ms": 758,
+      "response_time_ms": 803,
       "result": "OK",
       "error": null
     },
@@ -2710,7 +2710,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a37-5g?exact-color=%23625D56&storage=128GB",
       "title": "Samsung Galaxy A37 5G 128GB",
       "device_details_page_found": true,
-      "response_time_ms": 2159,
+      "response_time_ms": 2767,
       "result": "OK",
       "error": null
     },
@@ -2722,7 +2722,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/apple/apple-watch-s10-42mm-lte-titanium-milanese-loop?exact-color=%23B5744C&intent=NO_PLAN&paymentType=LEASE",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5277,
+      "response_time_ms": 5422,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2734,7 +2734,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch7-44mm-lte?exact-color=%23787969&intent=NO_PLAN&paymentType=LEASE",
       "title": "Samsung Watch7 44mm LTE от Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1044,
+      "response_time_ms": 1800,
       "result": "OK",
       "error": null
     },
@@ -2746,7 +2746,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-pura-80-pro?exact-color=%23FF0C0C&storage=512GB",
       "title": "HUAWEI Pura 80 Pro 512GB",
       "device_details_page_found": true,
-      "response_time_ms": 1101,
+      "response_time_ms": 1744,
       "result": "OK",
       "error": null
     },
@@ -2758,7 +2758,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/nothing/nothing-phone-3a-pro-5g?exact-color=%23777777&storage=256GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=LEASE",
       "title": "NOTHING Phone (3a) Pro",
       "device_details_page_found": true,
-      "response_time_ms": 1082,
+      "response_time_ms": 1650,
       "result": "OK",
       "error": null
     },
@@ -2770,7 +2770,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/accessories/apple/apple-airtag-mfe94zma?paymentType=CASH&intent=NO_PLAN",
       "title": "APPLE AirTag MFE94ZM/A",
       "device_details_page_found": true,
-      "response_time_ms": 1122,
+      "response_time_ms": 1153,
       "result": "OK",
       "error": null
     },
@@ -2782,7 +2782,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch8-classic-46mm-bt?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE",
       "title": "Samsung Watch8 Classic 46mm BT от Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1704,
+      "response_time_ms": 1752,
       "result": "OK",
       "error": null
     },
@@ -2794,7 +2794,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a14-5g?exact-color=%23000000&storage=64GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5233,
+      "response_time_ms": 5299,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2806,7 +2806,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-nova-13-pro?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон HUAWEI nova 13 Pro - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1043,
+      "response_time_ms": 1651,
       "result": "OK",
       "error": null
     },
@@ -2818,7 +2818,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-6-pro-46mm-brown-woven?exact-color=%233F2400&intent=NO_PLAN&paymentType=LEASE",
       "title": "Смарт часовник HUAWEI Watch GT 6 Pro 46mm Brown Woven",
       "device_details_page_found": true,
-      "response_time_ms": 1096,
+      "response_time_ms": 1172,
       "result": "OK",
       "error": null
     },
@@ -2830,7 +2830,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17-pro?exact-color=%233F5378&storage=1T&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=LEASE",
       "title": "Смартфон Apple iPhone 17 Pro - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1048,
+      "response_time_ms": 1859,
       "result": "OK",
       "error": null
     },
@@ -2842,7 +2842,7 @@
       "final_url": "https://www.yettel.bg/bg/news/yettel-predlaga-iphone-14-pro-s-dvoyno-poveche-pamet-na-cenata-na-po-niskata",
       "title": "Yettel предлага iPhone 14 Pro с двойно повече памет на цената на по-ниската | Yettel - Всичко свързано с теб",
       "device_details_page_found": null,
-      "response_time_ms": 489,
+      "response_time_ms": 905,
       "result": "OK",
       "error": null
     },
@@ -2854,7 +2854,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-signature-5g-512gb?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Motorola Signature 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1121,
+      "response_time_ms": 1142,
       "result": "OK",
       "error": null
     },
@@ -2866,7 +2866,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-duo?exact-color=%23F7F5F6&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "iPhone Duo 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1046,
+      "response_time_ms": 1720,
       "result": "OK",
       "error": null
     },
@@ -2878,7 +2878,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-razr-60-5g-swarovski?exact-color=%2399A9CC&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Motorola Razr 60 Ultra 5G Swarovski в комплект",
       "device_details_page_found": true,
-      "response_time_ms": 1057,
+      "response_time_ms": 1249,
       "result": "OK",
       "error": null
     },
@@ -2890,7 +2890,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic8-lite-5g-512gb?exact-color=%23A2D50E&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон HONOR Magic8 Lite 5G",
       "device_details_page_found": true,
-      "response_time_ms": 1040,
+      "response_time_ms": 1679,
       "result": "OK",
       "error": null
     },
@@ -2902,7 +2902,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-duo?exact-color=%23F7F5F6&storage=2T&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24",
       "title": "iPhone Duo 2TB",
       "device_details_page_found": true,
-      "response_time_ms": 1549,
+      "response_time_ms": 1733,
       "result": "OK",
       "error": null
     },
@@ -2914,7 +2914,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-13?exact-color=%23000000&storage=128GB&intent=NEW_ACTIVATION&paymentType=CASH&planId=48701-26681-24",
       "title": "XIAOMI Redmi Note 13 128GB",
       "device_details_page_found": true,
-      "response_time_ms": 1030,
+      "response_time_ms": 1153,
       "result": "OK",
       "error": null
     },
@@ -2926,7 +2926,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/huawei/huawei-nova-14-pro-512gb?exact-color=%231312F3&storage=512GB",
       "title": "Смартфон HUAWEI nova 14 Pro - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1100,
+      "response_time_ms": 1139,
       "result": "OK",
       "error": null
     },
@@ -2938,7 +2938,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/trender/trender-active-smartwatch?exact-color=%23D2D1D9&intent=NO_PLAN&paymentType=CASH",
       "title": "Смарт часовник TRENDER Active Smartwatch",
       "device_details_page_found": true,
-      "response_time_ms": 1044,
+      "response_time_ms": 1243,
       "result": "OK",
       "error": null
     },
@@ -2950,7 +2950,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/motorola/motorola-edge-60-5g?exact-color=%23069ADF&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон Motorola Edge 60 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1599,
+      "response_time_ms": 1841,
       "result": "OK",
       "error": null
     },
@@ -2962,7 +2962,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-200-pro-5g?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон HONOR 200 Pro 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1173,
+      "response_time_ms": 1242,
       "result": "OK",
       "error": null
     },
@@ -2974,7 +2974,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch8-44mm-bt?exact-color=%23777777&intent=NO_PLAN&paymentType=LEASE",
       "title": "Samsung Watch8 44mm BT",
       "device_details_page_found": true,
-      "response_time_ms": 1068,
+      "response_time_ms": 1279,
       "result": "OK",
       "error": null
     },
@@ -2986,7 +2986,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-10c?exact-color=%23386A87&storage=64GB",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5215,
+      "response_time_ms": 5281,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -2998,7 +2998,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/huawei/huawei-watch-gt-6-46mm-black-rubber?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE",
       "title": "Смарт часовник HUAWEI Watch GT 6 46mm Black Rubber",
       "device_details_page_found": true,
-      "response_time_ms": 1066,
+      "response_time_ms": 1226,
       "result": "OK",
       "error": null
     },
@@ -3010,7 +3010,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch8-classic-46mm-lte?exact-color=%23000000&intent=NO_PLAN&paymentType=LEASE",
       "title": "Samsung Watch8 Classic 46mm LTE от Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1040,
+      "response_time_ms": 1137,
       "result": "OK",
       "error": null
     },
@@ -3022,7 +3022,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/honor/honor-magic-v5-5g?exact-color=%23CFAC68&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Телефон HONOR Magic V5 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1055,
+      "response_time_ms": 1627,
       "result": "OK",
       "error": null
     },
@@ -3034,7 +3034,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smart_wearables/samsung/samsung-watch7-44mm-bt?exact-color=%23787969&intent=NO_PLAN&paymentType=LEASE",
       "title": "Samsung Watch7 44mm BT",
       "device_details_page_found": true,
-      "response_time_ms": 1036,
+      "response_time_ms": 1125,
       "result": "OK",
       "error": null
     },
@@ -3046,7 +3046,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/apple/iphone-17?exact-color=%23B1C6E3&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "iPhone 17 512GB",
       "device_details_page_found": true,
-      "response_time_ms": 1056,
+      "response_time_ms": 1657,
       "result": "OK",
       "error": null
     },
@@ -3058,7 +3058,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/xiaomi/xiaomi-redmi-note-14s-256bg?exact-color=%23891CDD&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон XIAOMI Redmi Note 14S - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2159,
+      "response_time_ms": 2200,
       "result": "OK",
       "error": null
     },
@@ -3070,7 +3070,7 @@
       "final_url": "https://www.yettel.bg/bg/tv-internet",
       "title": "Интернет и телевизия от Yettel | Yettel България",
       "device_details_page_found": null,
-      "response_time_ms": 488,
+      "response_time_ms": 844,
       "result": "OK",
       "error": null
     },
@@ -3082,7 +3082,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a57-5g?exact-color=%23E8E9FF&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy A57 5G 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1575,
+      "response_time_ms": 1738,
       "result": "OK",
       "error": null
     },
@@ -3094,7 +3094,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a16-5g?exact-color=%2390EE90&storage=128GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5294,
+      "response_time_ms": 5430,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -3106,7 +3106,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-z-flip8-5g-standart?exact-color=%23F6F1EE&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy Z Flip8 5G 512GB",
       "device_details_page_found": true,
-      "response_time_ms": 1648,
+      "response_time_ms": 1666,
       "result": "OK",
       "error": null
     },
@@ -3118,7 +3118,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/accessories/3mk/3mk-hyper-gan-charger-usb-a-c-33w-pd-qc",
       "title": "3mk Hyper GaN Charger USB A+C 33W PD QC",
       "device_details_page_found": true,
-      "response_time_ms": 1056,
+      "response_time_ms": 1206,
       "result": "OK",
       "error": null
     },
@@ -3130,7 +3130,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-plus-5g-standart?exact-color=%231312F3&storage=512GB&intent=NEW_ACTIVATION&paymentType=CASH&isPlanFirst=true?utm_source=google-search&utm_medium=cpc&utm_campaign=Samsung-brand",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": true,
-      "response_time_ms": 1573,
+      "response_time_ms": 1649,
       "result": "OK",
       "error": null
     },
@@ -3142,7 +3142,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%231312F3&storage=256GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH",
       "title": "Смартфон Samsung Galaxy S26 Ultra 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1542,
+      "response_time_ms": 1672,
       "result": "OK",
       "error": null
     },
@@ -3154,7 +3154,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-z-flip8-5g-standart?exact-color=%2339383D&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy Z Flip8 5G 512GB",
       "device_details_page_found": true,
-      "response_time_ms": 2094,
+      "response_time_ms": 2173,
       "result": "OK",
       "error": null
     },
@@ -3166,7 +3166,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%23EBE9E9&storage=1T&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH",
       "title": "Смартфон Samsung Galaxy S26 Ultra 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1540,
+      "response_time_ms": 2210,
       "result": "OK",
       "error": null
     },
@@ -3178,7 +3178,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a37-5g?exact-color=%23EBE9E9&storage=128GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy A37 5G 128GB",
       "device_details_page_found": true,
-      "response_time_ms": 2126,
+      "response_time_ms": 1778,
       "result": "OK",
       "error": null
     },
@@ -3190,7 +3190,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?exact-color=%23BCBCD4&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Samsung Galaxy S26 Ultra 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1649,
+      "response_time_ms": 2650,
       "result": "OK",
       "error": null
     },
@@ -3202,7 +3202,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-ultra-5g-standart?storage=512GB&exact-color=%23EBE9E9&intent=NEW_ACTIVATION&paymentType=LEASE&planId=48701-26681-24",
       "title": "Смартфон Samsung Galaxy S26 Ultra 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2053,
+      "response_time_ms": 2141,
       "result": "OK",
       "error": null
     },
@@ -3214,7 +3214,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-z-flip7-5g?exact-color=%2329282F&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Samsung Galaxy Z Flip7 5G",
       "device_details_page_found": true,
-      "response_time_ms": 2079,
+      "response_time_ms": 2647,
       "result": "OK",
       "error": null
     },
@@ -3226,7 +3226,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-plus-5g-standart?exact-color=%23000000&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Смартфон Samsung Galaxy S26+ 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 1575,
+      "response_time_ms": 2269,
       "result": "OK",
       "error": null
     },
@@ -3238,7 +3238,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-s26-5g-standart?exact-color=%231312F3&storage=256GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH",
       "title": "Yettel - Всичко свързано с теб",
       "device_details_page_found": false,
-      "response_time_ms": 5223,
+      "response_time_ms": 5328,
       "result": "DEVICE_NOT_PUBLISHED",
       "error": "div.device-details-page was not found or visible"
     },
@@ -3250,7 +3250,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-z-fold8-ultra-5g-standart?exact-color=%23BCBCD4&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy Z Fold8 Ultra 5G 512GB",
       "device_details_page_found": true,
-      "response_time_ms": 1598,
+      "response_time_ms": 2160,
       "result": "OK",
       "error": null
     },
@@ -3262,7 +3262,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-s25-5g?exact-color=%23AEAFB3&storage=256GB&intent=NEW_ACTIVATION&planId=45505-26334&paymentType=CASH",
       "title": "Смартфон Samsung Galaxy S25 5G - Yettel",
       "device_details_page_found": true,
-      "response_time_ms": 2607,
+      "response_time_ms": 1706,
       "result": "OK",
       "error": null
     },
@@ -3274,7 +3274,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-z-fold8-ultra-5g-standart?exact-color=%23F6F1EE&storage=512GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy Z Fold8 Ultra 5G 512GB",
       "device_details_page_found": true,
-      "response_time_ms": 2138,
+      "response_time_ms": 1639,
       "result": "OK",
       "error": null
     },
@@ -3286,7 +3286,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/tablets/samsung/samsung-tab-a11-plus-5g-128gb?exact-color=%23777777&storage=128GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Tab A11+ 5G",
       "device_details_page_found": true,
-      "response_time_ms": 1169,
+      "response_time_ms": 1193,
       "result": "OK",
       "error": null
     },
@@ -3298,7 +3298,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/device-gallery?category=SMARTPHONES&paymentType=LEASE&planId=45505-26334&filter=%5B%7B%22code%22%3A%22brand%22%2C%22values%22%3A%5B%22Samsung%22%5D%7D%5D",
       "title": "Смартфони, таблети и устройства | Купи онлайн | Yettel",
       "device_details_page_found": null,
-      "response_time_ms": 236,
+      "response_time_ms": 284,
       "result": "OK",
       "error": null
     },
@@ -3310,7 +3310,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/devices/smartphones/samsung/samsung-galaxy-a37-5g?exact-color=%23868FC7&storage=256GB&paymentType=CASH&intent=NO_PLAN",
       "title": "Samsung Galaxy A37 5G 256GB",
       "device_details_page_found": true,
-      "response_time_ms": 1080,
+      "response_time_ms": 1648,
       "result": "OK",
       "error": null
     },
@@ -3322,7 +3322,7 @@
       "final_url": "https://www.yettel.bg/bg/eshop/landing/samsung-galaxy-s26-series",
       "title": "Серия Samsung Galaxy S26 и Galaxy Buds4 - поръчай тук",
       "device_details_page_found": null,
-      "response_time_ms": 218,
+      "response_time_ms": 340,
       "result": "OK",
       "error": null
     }
